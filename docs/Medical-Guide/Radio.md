@@ -39,7 +39,7 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **10-77**   | Police Assistance Requested                    |
 | **10-78**   | Urgent Dangerous Situation, Send Everyone      |
 | **10-95**   | Suspect in Custody                             |
-| **10-100**  | Crash/Sudden Nap/Disconnect                    |
+| **Code 0**  | Crash/Sudden Nap/Disconnect                    |
 | **Code 1**    | No Lights, No Siren             |
 | **Code 2**    | Lights, No Siren                |
 | **Code 3**    | Lights and Siren                |

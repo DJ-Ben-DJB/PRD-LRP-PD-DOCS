@@ -4,64 +4,106 @@ title: Orthopedic (Bones/Fractures)
 parent: Medical-Guide
 ---
 
-# Fractures 
+# 🦴 Fractures
 
-## Non-Displaced Fracture
-The bone is boken, however both sections of the bone are still aligned and once healed does not inhibity the function of the limb or area of the body.
-
-- Provide pain medication as needed
-- Ice for swelling and pain management
-- If possible, place the limb in a cast
-  - Spine and Skull are non castable and may require fixing
-  - Ribs are non castable and will heal over time on their own
-- Apply UV Curing to the cast if needed with /e weld
+Fractures, or broken bones, vary in severity and treatment depending on alignment, location, and involvement of nearby tissues. Proper assessment and stabilisation are key to recovery and pain management.
 
 ---
 
-## Displaced Fracture - Non-Skull
-The bone is boken, sections of the bone are no longer aligned and before proper healing can occur the bones must be aligned
+## Non-Displaced Fracture
 
-- Provide pain medication as needed
-- Ice for swelling and pain management
-- Evaluate if you can set the bone without surgery
-  - Non-Surgical
-     - This will require physical manipulation. Pulling and or turning limbs to re-align bone fragments
-     - New Imaging to insure bone alignment
-     - Once confirmed proceed to casting
-  - Surgical
-     - Anesthetize the Patient and Intubate or do a Local Nerve block to limb if possible with o2 mask
-     - Large enough incision to gain access to affected area
-     - Saline and Bacitrcin to flush loose debri
-     - Suction to clear surgical area
-     - Align Fragments and fixate - This may include plates, screws, pins, rods to imobilize fragments
-     - Saline and Bacitrcin to flush loose debri
-     - Suction to clear surgical area
-     - Close surgical site, apply ointment, cover with clean/sterile guaze
-- then (if possible) cast the limb - For Surgical procedures make the cast removable for wound care
-  - Spine, Ribs are non castable. 
-  - Ribs will heal over time on their own, 
-  - Spine will require fixation.
+A **non-displaced fracture** occurs when the bone is broken, but the two ends remain properly aligned. These fractures generally heal well with immobilisation and conservative care.
+
+### Treatment
+- Administer **pain relief medication** as needed
+- Apply **ice** to reduce swelling and pain
+- Immobilise the limb with a **cast**, if applicable
+  - **Ribs** are *not castable*; allow to heal naturally
+  - **Spine and Skull** require specialised fixation; casting not possible
+- Use **UV curing** (e.g., with `/e weld`) to harden casts if applicable
+
+*Patients can typically be discharged after stabilisation with follow-up instructions.*
+
+---
+
+## Displaced Fracture (Non-Skull)
+
+A **displaced fracture** means the bone fragments are misaligned and must be realigned (reduced) before healing can occur.
+
+### Initial Care
+- Provide **pain relief** and **ice** for swelling
+- Evaluate if reduction can be performed **non-surgically** or if **surgical intervention** is required
+
+---
+
+### Non-Surgical Realignment
+- **Manually reduce** the fracture through physical manipulation (pulling, rotating, or pushing limbs to re-align)
+- Confirm alignment with **repeat imaging**
+- Once aligned, **cast** the limb for immobilisation
+
+---
+
+### Surgical Realignment
+Required when closed reduction fails or the injury is complex.
+
+#### Procedure:
+- **Sedate and intubate** the patient, or administer a **local nerve block** if appropriate
+- Make a **clean incision** over the affected area
+- Irrigate with **saline and bacitracin** to reduce infection risk
+- Use **suction** to clear the surgical field
+- **Align bone fragments** and **fixate** using:
+  - **Plates, screws, rods, or pins**
+- Re-irrigate and clear the area
+- **Close the wound**, apply **antibiotic ointment**, and cover with **sterile gauze**
+- Apply a **removable cast** if wound access is necessary for follow-up care
+
+Notes:
+- **Spinal fractures** require surgical fixation—*no casting*
+- **Rib fractures** heal naturally with time and pain management
 
 ---
 
 ## Skull Fracture
-The integrity of the skull has been compromised
 
-- Pain management
-- Evaluate if the skull requires surgery
-  - Non-Surgical (Linear Skull Fracture-No Movement of bone)
-     - Confirmed with imaging no bone movement and either of the following
-       - If no brain swelling, bleeding, etc seen continue this treatment course
-       - If TBI suspected move to Neurological Treatment page
-     - No intervention neccessary just pain management - resume normal activity within a few days
-  - Surgical (Depressed Skull Fracture-Bone has been depressed into the brain tissue)
-     - Anesthetize the Patient and Intubate
-     - Large enough incision to gain access to affected area
-     - Saline and Bacitrcin to flush loose debri
-     - Suction to clear surgical area
-     - Align Fragments and fixate - This will likely include a plate and pins
-        - If the Brain is swelling, you may delay this procedure to a second surgery in order to give room for the brain to swell without causing damage (requires icu or helmet to be worn till replacement)
-        - Sutue the bone fragment in place just under the skin between skull to preserve the bone fragment or may be discarded and a synthetic material used on follow-up surgery
-     - Saline and Bacitrcin to flush loose debri
-     - Suction to clear surgical area
-     - Close surgical site, apply ointment, cover with clean/sterile guaze
+A **skull fracture** is a serious injury where the cranial bones are compromised. These are categorized by whether the bone is **depressed** or **linear**.
+
+---
+
+### Non-Surgical Skull Fracture (Linear)
+
+Occurs when the skull is cracked but the bone remains in place.
+
+- Confirm with **CT or X-ray imaging**
+- Monitor for signs of:
+  - **Intracranial bleeding**
+  - **Swelling**
+  - **Traumatic Brain Injury (TBI)**
+- If **no signs of complications**, no surgical intervention is needed
+- Provide **pain management**
+- Patient may resume normal activity within several days
+- Refer to [Neurological] section if TBI is suspected
+
+---
+
+### Surgical Skull Fracture (Depressed)
+
+Occurs when a portion of the skull is sunken inward, potentially compressing the brain.
+
+#### Procedure:
+- **Sedate and intubate** the patient
+- Make a **large incision** to access the fracture
+- Irrigate with **saline and bacitracin**
+- Use **suction** to maintain visibility
+- **Lift and realign** bone fragments
+  - Use **plates, pins, or synthetic material** as needed
+- If the brain is swollen:
+  - **Delay reconstruction** to allow for decompression
+  - Store bone flap under scalp or discard and replace in follow-up
+- Re-irrigate and clear the surgical field
+- **Close wound**, apply **ointment**, and cover with **sterile gauze**
+
+Post-op monitoring for neurological function and intracranial pressure is essential. May require **ICU stay** or **protective helmet** if bone repair is delayed.
+
+---
+
+*Fractures of any type should always be documented with imaging, treated promptly, and followed by recovery instructions to avoid long-term complications.*

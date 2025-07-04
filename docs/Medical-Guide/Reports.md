@@ -4,92 +4,108 @@ title: Reports
 parent: Medical-Guide
 ---
 
-# Reports
-As a reminder, medical reports and their disclosures are subject to <a href="/docs/Modern/Privacy.html">Privacy Laws</a>
+# Medical Reports  
+All medical reports and their disclosure are governed by applicable Privacy Laws. Ensure compliance when accessing, handling, or sharing protected health information (PHI).
 
-## Types of Medical Reports
-
-### General Medical Records
-General Medical Records generally include the following information if available:
-
-- Name of Patient
-- Condition
-- Evaluation
-- Procedure
-- Post-Op/Discharge Instructions
-- Any ICU Follow-Up visits until they are discharged
-- Time of Death, if applicable
+{: .highlight }
+> There is an MDT Report Template to guide you writing reports. The below information is for additional immersion.
 
 ---
 
-### In Case of Emergency (ICE)
-ICE reports allow medical staff to get pertinent medical history information about a patient as well as establish emergency contacts to reach out to if the patient is incapacitated. ICE Contacts are generally situationally permitted access to the current scene's medical information. These reports can include:
+## Types of Medical Reports
 
-- Name of Patient
-- Date of Birth
-- Height
-- Weight
-- Personal Emergency Contacts
-- Professional Emergency Contacts
-- Personal Medical History / Diagnoses
-- Family Medical History
-- Allergies
-- Blood Type
+---
+
+### General Medical Records  
+These are the most common reports created for patient care and typically include:
+
+- Patient Name  
+- Presenting Condition  
+- Medical Evaluation  
+- Procedures Performed  
+- Post-Op / Discharge Instructions  
+- ICU Follow-Up Notes (if admitted)  
+- Time of Death (if applicable)
+
+---
+
+### In Case of Emergency (ICE) Report  
+ICE reports are used in critical situations to retrieve essential patient information and contact designated individuals. ICE contacts may be granted access to scene-specific medical details depending on the situation.
+
+**Common fields include:**
+
+- Patient Name  
+- Date of Birth  
+- Height & Weight  
+- Emergency Contacts (Personal & Professional)  
+- Medical History / Diagnoses  
+- Family Medical History  
+- Allergies  
+- Blood Type  
 - Donor Status
 
 ---
 
-### Mental Health Records
-Information from a mental health record/diagnoses should include:
+### Mental Health Records  
+Filed when a patient presents with or is diagnosed with a mental health condition. These reports should be handled with extra discretion.
 
-- Name of Patient
-- Diagnosed Medical Condition
-- Medications Prescribed
-- Work Clearance If Needed
-- Related Medical Reports
+**Details include:**
 
----
-
-### Physical Exam Records
-Pre-Employment Physical Exams are required by some governmental institutions and businesses. These exam reports typically include the findings from:
-
-- ICE Report
-- Eye Exam
-- Ear Exam
-- Heart and Lung Exam
-- Blood Work
-- Drug Test
-- Physical Fitness Test
+- Patient Name  
+- Diagnosis  
+- Prescribed Medications  
+- Work or Activity Clearance (if applicable)  
+- Relevant Linked Medical Reports
 
 ---
 
-### Staff Patient Lists
-For medical staff with a specialty that requires multiple or routine visits with a patient, it is encouraged to create a report with a patient list. This should include the following information:
+### Physical Exam Records  
+Often required for employment or governmental clearance, these comprehensive medical exams typically document:
 
-- Name of Staff
-- Current list of patients in that specialty, their phone number, and associated report
-- Waiting list of patients who have requested to see a doctor in that specialty and their phone number
-- Previously seen patients who are no longer seeking the specialized treatment
-
----
-
-### Autopsy Records
-Information included in an autopsy report generally includes
-
-- Name of Patient
-- Explanation of fatal injuries
-- Personal Effects
-- Death Certificate
-
+- ICE Report Data  
+- Vision and Hearing Tests  
+- Cardiopulmonary Exam (Heart & Lungs)  
+- Blood Panel Results  
+- Drug Screening  
+- Physical Fitness Assessment
 
 ---
 
-### Medical Record Access Report
-Some cities have an active police/DOJ system that requests medical records. Keeping track of those requests will allow players to leave breadcrumbs for improperly accessed documents/corruption rp. Information to track would include:
+### Staff Patient Lists  
+For specialised staff managing ongoing or high-volume patient cases. Maintaining this list is encouraged for continuity of care.
 
- - Report accessed
- - Requestor
- - Requesting organization
- - Associated Police Incident report or Case Number
- - Date accessed
- - Medical staff who accessed
+**Recommended fields:**
+
+- Staff Member’s Name  
+- Current Active Patients + Contact Info + Report Links  
+- Waiting List Patients + Contact Info  
+- Archived Patients (previously under care)
+
+---
+
+### Autopsy Records  
+Created when a patient has died and an autopsy is performed. These are official documents used for medical and legal purposes.
+
+**Typical contents:**
+
+- Patient Name  
+- Summary of Fatal Injuries  
+- Personal Effects Collected  
+- Certified Death Certificate
+
+---
+
+### Medical Record Access Log  
+Used to track external or law enforcement access to medical records. Helps support IC audit trails and RP transparency.
+
+**Track the following:**
+
+- Name of Report Accessed  
+- Requestor’s Name  
+- Requesting Agency or Department  
+- Linked Police/DOJ Case or Incident Number  
+- Date of Access  
+- Medical Staff Member Who Accessed
+
+---
+

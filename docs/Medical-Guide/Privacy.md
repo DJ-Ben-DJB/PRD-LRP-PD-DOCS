@@ -4,39 +4,83 @@ title: Patient Privacy
 parent: Medical-Guide
 ---
 
-# HIPAA
-Information taken from [US CDC](https://www.cdc.gov/phlp/publications/topic/hipaa.html) and [US HHS](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
+# HIPAA Overview – Privacy & Disclosure Guidelines
 
-## Permitted Uses and Disclosure
+---
 
-**When in doubt, defer the request to a higher ranking member of your team.**
+## Permitted Uses & Disclosures of PHI
 
-The law permits, but does not require, a covered entity to use and disclose PHI, without an individual’s authorization, for the following purposes or situations:
+> **When uncertain, always escalate to a higher-ranking medical or administrative staff member.**
 
-- Disclosure to the individual (if the information is required for access or accounting of disclosures, the entity MUST disclose to the individual)
-- Treatment, payment, and healthcare operations
-- Opportunity to agree or object to the disclosure of PHI
-  - An entity can obtain informal permission by asking the individual outright, or by circumstances that clearly give the individual the opportunity to agree, acquiesce, or object
-- Incident to an otherwise permitted use and disclosure
-- Limited dataset for research, public health, or healthcare operations
-- Public interest and benefit activities—The Privacy Rule permits use and disclosure of PHI, without an individual’s authorization or permission, for 12 national priority purposes:
-  - When required by law
-  - Public health activities
-  - Victims of abuse or neglect or domestic violence
-  - Health oversight activities
-  - Judicial and administrative proceedings
-  - Law enforcement
-    - as required by law (including court orders, court-ordered warrants, subpoenas) and administrative requests; 
-    - to identify or locate a suspect, fugitive, material witness, or missing person; 
-    - in response to a law enforcement official's request for information about a victim or suspected victim of a crime; 
-    - to alert law enforcement of a person's death, if the covered entity suspects that criminal activity caused the death; 
-    - when a covered entity believes that protected health information is evidence of a crime that occurred on its premises; and 
-    - by a covered health care provider in a medical emergency not occurring on its premises, when necessary to inform law enforcement about the commission and nature of a crime, the location of the crime or crime victims, and the perpetrator of the crime.
-  - Functions (such as identification) concerning deceased persons
-  - Cadaveric organ, eye, or tissue donation
-  - Research, under certain conditions
-  - To prevent or lessen a serious threat to health or safety
-  - Essential government functions
-  - Workers’ compensation
+HIPAA permits, but does not require healthcare providers to use and disclose **Protected Health Information (PHI)** without patient authorisation in specific cases:
 
-  For more detailed use cases, see [US HHS Summary of the HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
+---
+
+### Disclosure to the Individual
+- Patients have the right to access their own PHI and request disclosures.
+- Covered entities **must** comply with these requests when legally applicable.
+
+---
+
+### Treatment, Payment, and Healthcare Operations
+- Sharing PHI is permitted when it directly supports:
+  - Diagnosis or treatment
+  - Insurance claims and billing
+  - Internal hospital operations (e.g., quality review, case management)
+
+---
+
+### Informal Consent Situations
+- A patient’s **verbal agreement** or **clearly implied consent** (e.g., nodding when asked) may allow disclosure of limited PHI.
+- This is often used when family or friends are present during care.
+
+---
+
+### Incidental Disclosures
+- Limited, unintentional sharing that occurs as a byproduct of permitted use (e.g., being overheard in a busy ER) is allowable under proper safeguards.
+
+---
+
+### Limited Data Sets (for Research & Public Health)
+- PHI may be used in **de-identified form** for:
+  - Public health reporting
+  - Health system improvement
+  - Research (under specific privacy agreements)
+
+---
+
+## Public Interest & National Priority Exceptions
+
+HIPAA allows disclosure **without consent** for **12 recognised national priorities**:
+
+1. **When Required by Law**  
+   (e.g., court orders, statutes, subpoenas)
+2. **Public Health Activities**  
+   (e.g., disease tracking, immunizations, FDA reporting)
+3. **Victims of Abuse, Neglect, or Domestic Violence**
+4. **Health Oversight Activities**  
+   (e.g., audits, investigations, licensure checks)
+5. **Judicial & Administrative Proceedings**
+6. **Law Enforcement Purposes**  
+   Permitted under certain conditions:
+   - Legal mandates (e.g., warrants, subpoenas)
+   - Locating fugitives, suspects, or missing persons
+   - Identifying crime victims (with proper requests)
+   - Reporting criminal deaths or on-premises crime
+   - Medical emergencies **off-premises** related to crime
+7. **Deceased Individuals**  
+   For ID, autopsy, or next-of-kin notification
+8. **Organ, Eye, or Tissue Donation**
+9. **Approved Research**  
+   With proper privacy safeguards
+10. **Serious Threat to Health or Safety**
+11. **Essential Government Functions**  
+    (e.g., military, national security, presidential protection)
+12. **Workers’ Compensation Claims**
+
+---
+
+### Reminder for Roleplay:
+- Avoid "powergaming" by withholding or disclosing patient info unrealistically.
+- Use `/me` to reflect your character’s compliance with HIPAA (e.g., “/me Dr. Walker checks ID before releasing any documents”).
+- Bring in senior staff or legal advisors ICly if a situation seems legally grey.
