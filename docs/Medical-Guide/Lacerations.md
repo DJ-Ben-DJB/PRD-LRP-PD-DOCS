@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lacerations (Cuts, Stabs)
+title: Cuts, Lacerations, Stabs
 parent: Medical-Guide
 ---
 

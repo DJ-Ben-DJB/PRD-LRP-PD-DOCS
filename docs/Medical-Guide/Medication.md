@@ -4,7 +4,7 @@ title: Medications
 parent: Medical-Guide
 ---
 
-# Medication Classes and Examples
+# Medication
 
 ---
 

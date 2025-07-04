@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Imaging
+title: Medical Imagery
 parent: Medical-Guide
 ---
 
-# Imaging
+# Medical Imagery
 
 ---
 

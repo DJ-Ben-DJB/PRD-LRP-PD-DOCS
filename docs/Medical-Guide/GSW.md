@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Gunshot Wounds (GSW)
+title: (GSW) Gunshot Wounds 
 parent: Medical-Guide
 ---
 
-# Gunshot Wounds (GSWs)
+# (GSWs) Gunshot Wounds 
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Gastrointestinal (Abdomen / Intestines)
+title: Stomach & Intestines (Gastrointestinal)
 parent: Medical-Guide
 ---
 
-# Gastrointestinal (Stomach & Intestines)
+# Stomach & Intestines (Gastrointestinal)
 
 ---
 
