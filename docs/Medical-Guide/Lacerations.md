@@ -8,7 +8,7 @@ parent: Medical-Guide
 
 ---
 
-## On Scene  
+## At Scene Care
 *Quick steps to stop bleeding and protect the wound before the hospital.*
 
 - **Clean the wound** using sterile saline to wash away dirt, bacteria, and debris.
@@ -18,7 +18,7 @@ parent: Medical-Guide
 
 ---
 
-## In the Hospital  
+## At Hospital Care
 *More in-depth wound care and possible surgery depending on how deep or severe the laceration is.*
 
 - **Bring the patient into the OR or treatment room.**

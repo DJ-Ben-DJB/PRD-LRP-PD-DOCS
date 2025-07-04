@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Heart Cardiac
+title: Heart (Cardiac)
 parent: Medical-Guide
 ---
 
-# Heart Cardiac
+# Heart (Cardiac)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triage
-parent: Medical-Guide
+parent: SOP
 ---
 
 # Triage

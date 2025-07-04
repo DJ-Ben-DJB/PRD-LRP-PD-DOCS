@@ -8,7 +8,7 @@ parent: Medical-Guide
 
 ---
 
-## On Scene  
+## At Scene Care  
 Helping someone who’s drowned — act fast and follow these steps.
 
 ### What To Do:
@@ -35,7 +35,7 @@ Helping someone who’s drowned — act fast and follow these steps.
 
 ---
 
-## In the Hospital  
+## At Hospital Care 
 Now that the patient’s at the hospital, keep supporting their breathing and check for damage.
 
 ### What To Do:

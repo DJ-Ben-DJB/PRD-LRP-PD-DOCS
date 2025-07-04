@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medical Reports
-parent: Medical-Guide
+parent: SOP
 ---
 
 # Medical Reports  

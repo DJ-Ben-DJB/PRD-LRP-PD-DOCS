@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PHI Patient Privacy
-parent: Medical-Guide
+parent: SOP
 ---
 
 # HIPAA Overview – Privacy & Disclosure Guidelines

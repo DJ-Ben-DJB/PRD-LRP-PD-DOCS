@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Radio
-parent: Medical-Guide
+parent: SOP
 ---
 
 # Radio Communications

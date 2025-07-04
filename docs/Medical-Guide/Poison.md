@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Poisoning and Narcotics
+title: Narcotics & Poisoning 
 parent: Medical-Guide
 ---
 

@@ -6,7 +6,7 @@ parent: Medical-Guide
 
 # Respiratory
 
-## General Respiratory Isses
+## General Respiratory Issues
 
 - Check vitals (including oxygen saturation)
 - Administer Oxygen
@@ -17,7 +17,6 @@ parent: Medical-Guide
   - Stridor (High Pitched crowing) (Upper airway obstruction)
   - Absent sounds (Collapsed lungs)
   - Cough, labored breathing (Pnemonia)
-- Follow the associated guide
 
 ---
 

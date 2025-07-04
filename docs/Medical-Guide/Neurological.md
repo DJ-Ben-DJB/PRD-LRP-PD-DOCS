@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Neurological
+title: Head Injury (Neurological)
 parent: Medical-Guide
 ---
 
-# Neurological
+# Head Injury (Neurological)
 
 This section covers two of the most common neurological incidents encountered in the field and hospital setting: **concussions** and **seizures**. Recognizing the signs early and administering proper assessments and care can prevent further complications.
 

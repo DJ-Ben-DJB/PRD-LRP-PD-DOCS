@@ -8,7 +8,7 @@ parent: Medical-Guide
 
 Physicals are a routine part of onboarding and general health maintenance. These may be required for police before active duty.
 
-**Please conduct exams in one of the dedicated exam rooms** - for privacy and immersion.
+> **Please conduct exams in one of the dedicated exam rooms** - for privacy and immersion.
 
 ---
 

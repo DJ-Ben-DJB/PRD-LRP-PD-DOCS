@@ -33,7 +33,7 @@ nav_order: 1
 <a href="/docs/Medical-Guide/GSW.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/gsw.jpg"></figure></a>
 </td></tr>
 <tr><td>
-<a href="/docs/Medical-Guide/Imaging.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/imaging.jpg"></figure></a>
+<a href="/docs/SOP/Imaging.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/imaging.jpg"></figure></a>
 </td><td>
 <a href="/docs/Medical-Guide/Lacerations.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/lacerations.jpg"></figure></a>
 </td><td>
@@ -51,19 +51,19 @@ nav_order: 1
 </td><td>
 <a href="/docs/Medical-Guide/Poison.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/poison.jpg"></figure></a>
 </td><td>
-<a href="/docs/Medical-Guide/Privacy.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/privacy.jpg"></figure></a>
+<a href="/docs/SOP/Privacy.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/privacy.jpg"></figure></a>
 </td></tr>
 <tr><td>
-<a href="/docs/Medical-Guide/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/radio.jpg"></figure></a>
+<a href="/docs/SOP/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/radio.jpg"></figure></a>
 </td><td>
-<a href="/docs/Medical-Guide/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/reports.jpg"></figure></a>
+<a href="/docs/SOP/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/reports.jpg"></figure></a>
 </td><td>
 <a href="/docs/Medical-Guide/Respiratory.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/respiratory.jpg"></figure></a>
 </td></tr>
 <tr><td>
-<a href="/docs/Medical-Guide/Training.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/training.jpg"></figure></a>
+<a href="/docs/SOP/Training.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/training.jpg"></figure></a>
 </td><td>
-<a href="/docs/Medical-Guide/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
+<a href="/docs/SOP/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
 </td></tr>
 </tbody>
 </table>

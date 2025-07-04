@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Heat and Chemical Burns
+title: Heat & Chemical Burns
 parent: Medical-Guide
 ---
 
-# Heat and Chemical Burns
+# Heat & Chemical Burns
 
 ---
 
-## At the Scene
+## At Scene Care
 
 ### 1st & 2nd Degree Burns (Red, Painful, Possibly Blistered)
 
@@ -25,7 +25,7 @@ parent: Medical-Guide
 
 ---
 
-## At the Hospital
+## At Hospital Care
 
 ### 1st Degree (Like a Sunburn)
 

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: (GSW) Gunshot Wounds 
+title: GSW (Gunshot Wounds) 
 parent: Medical-Guide
 ---
 
-# (GSWs) Gunshot Wounds 
+# GSW (Gunshot Wounds) 
 
 ---
 
-## On Scene Care
+## At Scene Care
 
 ### Graze Wound (Skin Only)
 
@@ -38,7 +38,7 @@ parent: Medical-Guide
 
 ---
 
-## In the Hospital
+## At Hospital Care
 
 ### Surgery Prep & Procedure
 

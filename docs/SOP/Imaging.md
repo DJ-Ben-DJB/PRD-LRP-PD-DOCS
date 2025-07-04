@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medical Imagery
-parent: Medical-Guide
+parent: SOP
 ---
 
 # Medical Imagery

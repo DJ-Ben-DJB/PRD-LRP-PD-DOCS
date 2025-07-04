@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EMS Training
-parent: Medical-Guide
+parent: SOP
 ---
 
 # Training
@@ -20,14 +20,14 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Solo-Clear Training Criteria
 - Cross-Training Expectations
 - Common Emotes
-    - /e mechanic - Intense
-    - /e parkingmeter - Moderate
-    - /e type - Mild
-    - /e notepad - Writing down notes
-    - /e think - Hand on chin
-    - /e clipboard - Holding a Clipboard
-    - /e leanbar3 - Leaning on the rails at the end of the bed
-    - /e facepalm - Disappointment
+    - **/e mechanic** - Intense
+    - **/e parkingmeter** - Moderate
+    - **/e type** - Mild
+    - **/e notepad** - Writing down notes
+    - **/e think** - Hand on chin
+    - **/e clipboard** - Holding a Clipboard
+    - **/e leanbar3** - Leaning on the rails at the end of the bed
+    - **/e facepalm** - Disappointment
 
 ---
 
