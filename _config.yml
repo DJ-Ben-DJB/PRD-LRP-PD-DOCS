@@ -1,0 +1,28 @@
+title: "Let's RP - EMS Documents"
+description: "Let's RP Medical Documents and Role Play guides"
+theme: just-the-docs
+url: https://dj-ben-djb.github.io/LRP-EMS-DOCS
+
+color_scheme: dark
+
+nav_external_links_new_tab: true
+heading_anchors: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+exclude: ["LICENSE"]
