@@ -4,69 +4,74 @@ title: Triage
 parent: SOP
 ---
 
-# Triage
+# Triage Protocol
 
-## Process
-Follow your ABCDE - Airway, Breathing, Circulation, Diagnosis, Exposure
+## Triage Process (ABCDE Method)
 
-- **Airway** - Check Airway for any blockage
-- **Breathing** - Check for Breathing, irregular or normal
-- **Circulation** - Check for Pulse and Heart Rate
-- **Diagnosis** - Treatment of any visible injuries
-- **Exposure** - Watch for infection, disease, etc
+Always assess patients using the **ABCDE** approach:
 
----
-
-## Classifications
-
-### Green
-Stable patients with minor injuries with little monitoring.
-- Twisted Ankle 
-- Minor Cuts
-- Bruising (Walking Wounds)
-
-### Yellow
-Concerning injuries but still stable, will likely need hospital.
-- Fractures
-- Deep Lacerations
-
-### Red
-Critical, will need constant attention.
-- Multiple GSWs
-- Excessive Bleeding / Blood Loss
-- Low Vitals
-- 3rd/4th degree burns
-- Injuries that place a life in jeopardy/low or irregular vitals
-
-### Black
-DOA, injuries are so bad they are already dead. Attempt resuscitation only one time to patients in this category
-- Decapitation 
-- Missing Organs
-- Too much blood loss
-
-Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
+- **A – Airway**: Ensure the airway is clear of obstructions.
+- **B – Breathing**: Assess respiratory rate and quality (regular vs. irregular).
+- **C – Circulation**: Check for a pulse, blood pressure, and signs of perfusion.
+- **D – Disability/Diagnosis**: Identify and treat any visible injuries or neurological deficits.
+- **E – Exposure/Environment**: Expose the patient as needed to assess for hidden injuries, infections, rashes, or environmental threats.
 
 ---
 
-# Codes and Alerts
-Code Blue is the only recommended color code to be used with alerts. Plain Language Alerts have been recommended by multiple states to replace them.
+## Triage Classifications
 
-## Code Blue
-No Pulse and No Breathing
+### 🟢 Green – Minor (Walking Wounded)
+Patients with non-life-threatening injuries who can walk and care for themselves with minimal assistance.
+- Minor cuts and abrasions
+- Bruises
+- Sprains or twisted ankles
 
-- Establish the criteria for a code blue
-  - Airway is clear
-  - Patient has no pulse
-  - Patient is not breathing
-  - No open chest wound
-- Start CPR
-- Remove clothing to allow access to chest
-  - Ensure it is dry
-- Turn on the AED and attach the pads
-- Allow the machine to analyze the patient for a shockable rhythm
-  - If no shockable rhythm, continue CPR
-  - If shockable rhythm detected, start the AED
-- The AED will automatically deliver the appropriate energy levels for each shock. 
-- After three attempts to shock the patient, transport to the hospital while continuing to do CPR if able.
+### 🟡 Yellow – Delayed (Moderate)
+Stable patients who require treatment but are not in immediate danger. May need transport to a hospital.
+- Fractures (not compound)
+- Deep lacerations without severe bleeding
+- Stable vitals, but injury requires monitoring
 
-Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
+### 🔴 Red – Immediate (Critical)
+Patients in critical condition needing immediate life-saving intervention. Requires constant attention.
+- Multiple gunshot wounds (GSWs)
+- Severe blood loss or uncontrolled hemorrhaging
+- Unconscious with low/irregular vitals
+- Third- or fourth-degree burns
+- Life-threatening trauma
+
+### ⚫ Black – Deceased/Expectant
+Patients with injuries incompatible with life or confirmed dead on arrival (DOA). If applicable, attempt **resuscitation once**.
+- Decapitation
+- Evisceration or missing critical organs
+- Exsanguination (complete blood loss)
+- Signs of irreversible death
+
+---
+
+# Emergency Codes & Alerts
+
+## Plain Language Preferred
+Most states recommend **plain language alerts** for clarity. The only exception is:
+
+### Code Blue – Cardiac Arrest / No Signs of Life
+
+**Criteria to initiate Code Blue:**
+- No pulse
+- Not breathing
+- Airway is clear (no visible obstruction)
+- No open chest wound
+
+**Steps for Response:**
+1. **Begin CPR immediately** (30 compressions, 2 breaths)
+2. Remove upper clothing to expose the chest — ensure the skin is dry
+3. Turn on and apply the **AED (Automated External Defibrillator)**
+4. Follow AED instructions:
+   - **If shock advised**, deliver shock
+   - **If no shock advised**, continue CPR
+5. Repeat for **up to 3 shocks**
+6. If ROSC (Return of Spontaneous Circulation) not achieved, continue CPR **while transporting** to the hospital
+
+> ⚠️ AED will determine the appropriate energy levels automatically.
+
+---

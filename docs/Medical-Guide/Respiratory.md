@@ -4,90 +4,92 @@ title: Breathing (Respiratory)
 parent: Medical-Guide
 ---
 
-# Respiratory
+# Breathing (Respiratory)
 
-## General Respiratory Issues
+## General Respiratory Assessment
 
-- Check vitals (including oxygen saturation)
-- Administer Oxygen
-- Listen to the lungs
-  - Wheezing (asthma/bronchoconstriction)
-  - Crackles / Popping (Fluid in lungs)
-  - Rhonchi (low pitched snoring/rumbling) (Mucus/bronchitis)
-  - Stridor (High Pitched crowing) (Upper airway obstruction)
-  - Absent sounds (Collapsed lungs)
-  - Cough, labored breathing (Pnemonia)
-
----
-
-### Wheezing
-
-- Administer a bronchodilator such as albuterol
-- Continue to monitor oxygen saturation
-- Suggest a take-home nubulizer treatment for the patient
-- Suggest asthma related health plans
-- Discharge
+- Check **vital signs**, including **oxygen saturation (SpO₂)**
+- Administer **supplemental oxygen** as needed
+- Auscultate lungs and assess for abnormal breath sounds:
+  - **Wheezing** – may indicate asthma or bronchoconstriction  
+  - **Crackles / Rales** – suggests fluid accumulation (e.g., pulmonary edema)  
+  - **Rhonchi** – low-pitched rattling, common in mucus buildup or bronchitis  
+  - **Stridor** – high-pitched crowing; upper airway obstruction  
+  - **Absent breath sounds** – could indicate a collapsed lung (pneumothorax)  
+  - **Labored breathing with cough** – may be a sign of pneumonia  
 
 ---
 
-### Fluid In Lungs / Drowning
+## Wheezing (Asthma / Bronchoconstriction)
 
-- Raise the head of the bed to help reduce fluid buildup
-- Administer Diuretic medication
-- Monitor vitals
-- Continue any other treatment
-
----
-
-### Bronchitis
-
-- Provide symptom relief
-  - Administer a cough suppressant (Dextromethorphan) and expectorant (guaifensin)
-- Administer a Bronchodilator (albuterol)
-- Encourage fluid intake
-  - Administer a saline bag or have the patient drink water
-- Check oxygen levels and vitals
-- Discharge with home care instructions
-  - Rest
-  - Medication
+- Administer a **bronchodilator** (e.g., **Albuterol** via inhaler or nebulizer)
+- Monitor **SpO₂** and respiratory rate
+- Recommend **home nebulizer treatment**
+- Discuss **asthma action plan** or trigger avoidance
+- Discharge with **medications** and **follow-up plan**
 
 ---
 
-### Upper Airway Obstruction
+## Fluid in Lungs / Drowning (Pulmonary Edema or Near-Drowning)
 
-- Lift head and chin and examine airway
-- Check the airway for an apparent blockage
-- Administer a back blow or Heimlich to remove the obstruction
-- Administer oxygen once airway is clear
-- Monitor vitals
-- Discharge when recovered
+- Elevate the **head of bed** (Fowler’s position) to ease breathing
+- Administer a **diuretic** (e.g., Furosemide) to reduce fluid overload
+- Continuously monitor **vital signs** and **oxygen saturation**
+- Continue oxygen therapy and other supportive measures as needed
 
 ---
 
-### Collapsed Lung
+## Bronchitis
 
-- Administer Oxygen
-- Check vital signs
-- Administer Chest Tube Placement
-- Remove air or fluid from pleural space
-- Re-expand collapsed lung
-- Remove tube
-- Listen to lung and ensure it is operating normally
-- Monitor patient for stabilized vitals
-- Pain medication may be needed for chest pain
-- Discharge
+- Provide symptom relief:
+  - **Cough suppressant** (e.g., Dextromethorphan)  
+  - **Expectorant** (e.g., Guaifenesin)  
+- Administer a **bronchodilator** (e.g., Albuterol)
+- Encourage **fluid intake**
+  - Offer **oral fluids** or administer **IV saline**
+- Monitor **oxygen saturation** and vitals
+- Discharge with **home care instructions**:
+  - Rest, hydration, and prescribed medications
 
 ---
 
-### Pneumonia
-Symptoms: Cough, Difficulty Breathing, Chest Pain, Fever, Fatigue
+## Upper Airway Obstruction
 
-- Conduct an Xray
-- Administer Antibiotics
-- Provide symptom relief
-  - Administer an NSAID for fever
-  - Administer a cough suppressant
-  - Administer an expectorant
-- Administer oxygen, especially if levels are low
-- Encourage fluid intake
-- Monitor vitals
+- Perform a **head-tilt chin-lift** to open airway
+- Visually inspect the airway for obstruction
+- If blockage is visible, attempt to remove it manually
+- If needed, perform:
+  - **Back blows**
+  - **Heimlich maneuver**
+- Administer **oxygen** once airway is cleared
+- Monitor **vitals**
+- Discharge when patient is stable
+
+---
+
+## Collapsed Lung (Pneumothorax)
+
+- Administer **high-flow oxygen**
+- Assess **vital signs** and respiratory effort
+- Prepare and assist with **chest tube placement**
+- Remove **air or fluid** from pleural space to re-expand the lung
+- Monitor for **improved breath sounds**
+- Provide **pain management** as needed
+- Remove tube once lung function is normalized
+- Discharge when stable
+
+---
+
+## Pneumonia
+
+**Symptoms:** Cough, Difficulty Breathing, Chest Pain, Fever, Fatigue
+
+- Order a **chest X-ray** for diagnosis
+- Administer **antibiotics** as indicated
+- Provide symptom relief:
+  - **NSAIDs** for fever and discomfort  
+  - **Cough suppressant**  
+  - **Expectorant**  
+- Provide **oxygen** if SpO₂ is low
+- Encourage **fluid intake** (oral or IV)
+- Monitor **vitals** and **respiratory status**
