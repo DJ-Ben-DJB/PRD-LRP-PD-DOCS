@@ -81,6 +81,7 @@ Our aim is to give you a simple, easy to follow framework for handling different
 ---
 
 ## Disclaimer Statement
+
 {: .highlight }
 > Medical role play training in this community is designed solely for educational and simulation purposes to help participants develop communication, problem-solving, and procedural skills in a fictional (Roleplay) medical setting. These sessions do not represent real-life medical training or practice and must not be interpreted as medical advice or guidance. Scenarios involve simulated situations and fictional cases under facilitator supervision, with strict boundaries separating role play from actual medical conduct. Participants are responsible for their actions, must not attempt to apply role play techniques in real life, and acknowledge the limitations and simplified nature of these exercises. Participation is voluntary, and by joining, individuals agree to these terms and the educational intent of the activities.
 
