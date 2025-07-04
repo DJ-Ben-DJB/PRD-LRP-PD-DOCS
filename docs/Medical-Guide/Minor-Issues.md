@@ -4,7 +4,7 @@ title: Bumps, Cuts, and Bruises
 parent: Medical-Guide
 ---
 
-# 🩹 Bumps, Cuts, and Bruises
+# Bumps, Cuts, and Bruises
 
 ---
 
