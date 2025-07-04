@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Orthopedic (Bones/Fractures)
+title: Bones, Fractures (Orthopaedic)
 parent: Medical-Guide
 ---
 
-# 🦴 Fractures
+# Fractures
 
 Fractures, or broken bones, vary in severity and treatment depending on alignment, location, and involvement of nearby tissues. Proper assessment and stabilisation are key to recovery and pain management.
 

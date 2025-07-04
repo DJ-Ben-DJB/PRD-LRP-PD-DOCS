@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Physical Exams
+title: Checkup & Physicals
 parent: Medical-Guide
 ---
 
-# Physical Exams 
+# Checkup & Physicals
 
 Physicals are a routine part of onboarding and general health maintenance. These may be required for police before active duty.
 

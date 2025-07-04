@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Burns
+title: Heat and Chemical Burns
 parent: Medical-Guide
 ---
 
-# Burns
+# Heat and Chemical Burns
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Respiratory
+title: Breathing (Respiratory)
 parent: Medical-Guide
 ---
 

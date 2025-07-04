@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reports
+title: Medical Reports
 parent: Medical-Guide
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Training
+title: EMS Training
 parent: Medical-Guide
 ---
 

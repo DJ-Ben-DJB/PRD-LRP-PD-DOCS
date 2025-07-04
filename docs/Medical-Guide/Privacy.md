@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Patient Privacy
+title: PHI Patient Privacy
 parent: Medical-Guide
 ---
 

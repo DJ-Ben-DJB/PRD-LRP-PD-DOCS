@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Bumps, Cuts, and Bruises
+title: Minor Cuts and Bruises
 parent: Medical-Guide
 ---
 
-# Bumps, Cuts, and Bruises
+# Minor Cuts and Bruises
 
 ---
 
