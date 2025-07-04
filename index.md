@@ -8,8 +8,8 @@ nav_order: 1
 
 {: .highlight }
 > **OOC Note:** This guide is created for new medical role players with little to no experience. Its purpose is to help you learn the basics of medical roleplay and develop your skills to provide an enjoyable and immersive experience for both yourself, and the players you interact with in the city. 
-{: .highlight }
-> Our aim is to give you a simple, easy to follow framework for handling different types of injuries while building your confidence in playing a medical character. 
+
+Our aim is to give you a simple, easy to follow framework for handling different types of injuries while building your confidence in EMS
 
 {: .highlight }
 > **Remember:** this is roleplay! That means suspending disbelief and embracing the creative chaos. One moment you might be patching up a scraped knee, and the next, you’re reassembling the commissioners eye ball. In roleplay, scenarios can be absurd, impossible, or downright bizarre and that’s half the fun. Embrace the unexpected, stay in character, and enjoy the ride. 
@@ -78,10 +78,9 @@ nav_order: 1
 </tbody>
 </table>
 
+---
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Disclaimer Statement
+{: .highlight }
+> Medical role play training in this community is designed solely for educational and simulation purposes to help participants develop communication, problem-solving, and procedural skills in a fictional (Roleplay) medical setting. These sessions do not represent real-life medical training or practice and must not be interpreted as medical advice or guidance. Scenarios involve simulated situations and fictional cases under facilitator supervision, with strict boundaries separating role play from actual medical conduct. Participants are responsible for their actions, must not attempt to apply role play techniques in real life, and acknowledge the limitations and simplified nature of these exercises. Participation is voluntary, and by joining, individuals agree to these terms and the educational intent of the activities.
+
