@@ -56,6 +56,29 @@ Once the trainee has:
 - Shown consistent grasp of essential EMS skills,
 They may be put forward for the Basic Medical Assessment. the first of three evaluations used to determine skill competency and eligibility for future promotion.
 
+{: .highlight }
+> all staff are not to carry any weapons, including licensed firearms when on shift (except non-lethal tasers, or via Pre-Authorisation under special circumstances). The EMS staff are employed to save people, not harm. This also reduces the risk for staff, as they will not be targeted by criminals for robbery.
+
+---
+
+## Policy
+
+- Zero tolerance to any form of racism or sexism
+- Zero tolerance for any workplace harassment, including sexual harassment/assualt, violence or bullying
+- Treat people how you want to be treated!
+- No Firearms or other weapons to be held on duty (except non-lethal tasers, or via Pre-Authorisation under special circumstances) All staff are not to carry any weapons, including licensed firearms when on shift. The EMS staff are employed to save people, not harm. This also reduces the risk for staff, as they will not be targeted by criminals for robbery.
+- When out in public remain professional at all times, even if treated poorly by patients civilians or by other Government workers
+- Uniforms are strictly enforced. Do not be impersonating a higher rank than what you are. 
+- Do not drive any vehicles that you are not certified to drive
+- If you are unsure about treatments, procedures, drugs, training, development please speak to a supervisor or management. 
+- Do not be under any influences when starting work, no influences to be consumed when working.
+- Radio codes are to be used when communicating via radio, keep chit chat to a minimum, unless necessary.
+- Report policy breaks or misconduct to your Supervisors or Management.
+- Report any forms of assault from other Government employees to Management.
+- No Masks, other than PPE face masks to be worn when on shift. 
+- Report any problems you have with either workload, stress or illness to any Supervisors or Management. 
+- We support your choice in whatever hair colour or body tattoos that you have, however we do not endorse Face tattoos, if you are offered the job we do expect you to have laser surgery in order to remove the face tattoos.
+
 ---
 
 ## Common Emotes
