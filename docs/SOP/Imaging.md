@@ -6,6 +6,8 @@ parent: SOP
 
 # Medical Imagery
 
+Medical imagery is the window into the body when the outside doesn’t tell the full story. Whether you're ruling out fractures, spotting internal bleeding, or confirming a collapsed lung, imaging helps translate symptoms into visible evidence.
+
 ---
 
 ## X-Ray  

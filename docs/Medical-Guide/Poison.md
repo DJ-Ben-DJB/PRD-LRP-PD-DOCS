@@ -6,7 +6,7 @@ parent: Medical-Guide
 
 # Poisoning & Narcotics Overdose
 
-Proper treatment and swift response are critical when dealing with overdoses or toxic ingestion. Stabilise first, then support recovery.
+Poisonings and drug overdoses are high-risk, time-sensitive emergencies that demand fast thinking and calm execution. Whether accidental or intentional, toxins in the body can disrupt vital functions in minutes.
 
 ---
 

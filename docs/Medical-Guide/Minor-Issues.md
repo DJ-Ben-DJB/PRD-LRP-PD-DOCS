@@ -6,8 +6,6 @@ parent: Medical-Guide
 
 # Minor Cuts and Bruises
 
----
-
 These injuries are among the most common and are typically non-life-threatening. Your job is to assess, clean, protect, and provide comfort to the patient. The key is to prevent infection, reduce swelling, and manage pain.
 
 ---

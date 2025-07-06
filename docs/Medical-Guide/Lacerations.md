@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Lacerations (Cuts, Tears, or Deep Wounds)
 
+Lacerations are wounds caused by blunt trauma, sharp objects, or tearing of the skin and underlying tissue. They can range from superficial scrapes to deep, bleeding gashes that expose muscle, bone, or organs. As medical staff, our goal is to control bleeding, prevent infection, and support proper healing.
+
 ---
 
 ## At Scene Care

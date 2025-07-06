@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # GSW (Gunshot Wounds) 
 
+Gunshot wounds (GSWs) are among the most critical and unpredictable injuries you’ll encounter. They can range from superficial grazes to deep-penetrating trauma that damages vital organs, arteries, and bones. Each GSW demands immediate attention—with your priorities being bleeding control, stabilization, and rapid transport or surgical intervention.
+
 ---
 
 ## At Scene Care

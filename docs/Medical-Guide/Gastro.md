@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Stomach & Intestines (Gastrointestinal)
 
+The gastrointestinal (GI) system plays a central role in digestion, nutrient absorption, and waste elimination—but when something goes wrong, it can trigger everything from mild discomfort to life-threatening emergencies.
+
 ---
 
 ## Common Issues & What To Do

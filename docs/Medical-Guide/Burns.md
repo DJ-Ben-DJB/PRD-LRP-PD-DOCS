@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Heat & Chemical Burns
 
+Burn injuries—whether caused by fire, hot surfaces, or caustic chemicals—are among the most painful and complex traumas to manage. Burns don’t just damage skin—they can disrupt fluids, electrolytes, and even internal systems depending on severity and exposure.
+
 ---
 
 ## At Scene Care

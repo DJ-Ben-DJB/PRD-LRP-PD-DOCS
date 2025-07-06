@@ -6,6 +6,10 @@ parent: SOP
 
 # Radio Communications
 
+In EMS communications, radio codes are essential for fast, clear, and professional interaction. Using standardized codes helps teams relay patient status, requests, and emergencies quickly without confusion.
+
+---
+
 ## Radio Codes
 While plain English is generally acceptable, some players do enjoy uzing radio codes in their roleplay. These are commonly accepted radio codes.
 

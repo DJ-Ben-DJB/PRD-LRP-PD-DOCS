@@ -6,6 +6,10 @@ parent: SOP
 
 # Triage Protocol
 
+In emergency situations, triage protocol is your guide to quickly assessing and prioritising patients based on the severity of their injuries or conditions. It helps EMS teams make critical decisions on who needs immediate care, who can wait, and how to allocate limited resources effectively.
+
+---
+
 ## Triage Process (ABCDE Method)
 
 Always assess patients using the **ABCDE** approach:

@@ -6,6 +6,10 @@ parent: Medical-Guide
 
 # Breathing (Respiratory)
 
+The respiratory system is responsible for one of the most vital functions in the human body—bringing oxygen in and pushing carbon dioxide out. Every breath a patient takes affects their heart, brain, and overall function, which makes assessing respiratory status a top priority in any emergency or hospital setting.
+
+---
+
 ## General Respiratory Assessment
 
 - Check **vital signs**, including **oxygen saturation (SpO₂)**

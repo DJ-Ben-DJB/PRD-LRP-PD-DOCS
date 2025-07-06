@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Drowning
 
+Drowning is a life-threatening emergency that occurs when water or another liquid fills the lungs, preventing the body from getting enough oxygen. It can happen quickly and silently, often leaving the patient unconscious or in severe respiratory distress.
+
 ---
 
 ## At Scene Care  

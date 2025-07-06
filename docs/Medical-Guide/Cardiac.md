@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Heart (Cardiac)
 
+Cardiac cases are among the most urgent and time-sensitive situations in emergency medicine. The heart is the engine of the body—when it struggles, everything else follows. From irregular rhythms to full cardiac arrest, cardiac events can escalate in seconds.
+
 ---
 
 ## Cardiac Arrest  

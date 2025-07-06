@@ -6,6 +6,8 @@ parent: Medical-Guide
 
 # Medication
 
+Medications are one of the most powerful tools in a medical professional’s arsenal. From stabilising vitals to managing pain and treating infections, the right drug at the right time can be the difference between life and death.
+
 ---
 
 {: .highlight }
