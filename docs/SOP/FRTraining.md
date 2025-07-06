@@ -4,7 +4,7 @@ title: First Response - EMS Training
 parent: SOP
 ---
 
-# First Response Medical Roleplay Training Guide
+# First Response Training Guide
 
 This training roadmap outlines the core competencies and milestones required to build knowledge and confidence as a **First Response** medical roleplayer.
 
