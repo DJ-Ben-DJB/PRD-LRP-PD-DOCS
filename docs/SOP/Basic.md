@@ -4,7 +4,9 @@ title: Basic SOP
 parent: SOP
 ---
 
-# Standard Operating Procedures
+# Standard Operating Procedures (SOP)
+
+---
 
 The Los Santos Emergency Medical Services is a vital public safety and healthcare organisation committed to delivering high-quality emergency medical care across the city of Los Santos, the greater San Andreas region, and surrounding jurisdictions. With a jurisdictional area spanning 471 square miles (1,220 km²) and serving an estimated population of over 4 million residents, our mission is clear: 
 
