@@ -8,51 +8,6 @@ parent: Medical-Guide
 
 ---
 
-## Atrial Fibrillation (AFib)  
-Irregular and often fast heart rate — can lead to stroke or heart failure.
-
-### What to Look For:
-- Fluttering heartbeat
-- Tiredness or weakness
-- Dizzy or lightheaded
-- Trouble breathing
-- Chest feels strange or uncomfortable
-
-### What To Do:
-1. **Take the patient's vitals.**
-2. **Run an ECG** (stick probes on chest to check heart rhythm).
-3. **Give oxygen** if their oxygen levels are low.
-4. **Ask if they’ve had heart issues** before — this raises risk of stroke.
-5. **Mention long-term options**:
-   - Blood thinners (to prevent clots)
-   - Beta-blockers (to slow down the heart)
-   - A pacemaker (requires surgery, no future metal detectors, no follow-ups needed)
-
----
-
-## Bradycardia  
-Low heart rate (under 60 beats per minute)
-
-### What to Look For:
-- Slow heartbeat
-- Feeling faint or dizzy
-- Trouble breathing
-- Chest discomfort
-- Feeling tired or confused
-
-### What To Do:
-1. **Take the patient’s vitals.**
-2. **Check for causes** like:
-   - Side effects from meds
-   - Low electrolytes
-   - Recent injuries or trauma
-3. **Give Epinephrine** to help raise the heart rate.
-4. **Keep checking vitals** to see if the heart rate improves.
-5. **Offer bloodwork** to find the root cause (get results /OOC).
-6. **Talk about a pacemaker** if the patient wants long-term treatment.
-
----
-
 ## Cardiac Arrest  
 Heart stops pumping — emergency situation!
 
@@ -83,6 +38,51 @@ Heart stops pumping — emergency situation!
 9. **Give 3rd and final shock.**
 10. **If still no pulse**, ask patient /OOC or /ME if they want to perma.
 11. **If yes, call time of death.**
+
+---
+
+## Bradycardia  
+Low heart rate (under 60 beats per minute)
+
+### What to Look For:
+- Slow heartbeat
+- Feeling faint or dizzy
+- Trouble breathing
+- Chest discomfort
+- Feeling tired or confused
+
+### What To Do:
+1. **Take the patient’s vitals.**
+2. **Check for causes** like:
+   - Side effects from meds
+   - Low electrolytes
+   - Recent injuries or trauma
+3. **Give Epinephrine** to help raise the heart rate.
+4. **Keep checking vitals** to see if the heart rate improves.
+5. **Offer bloodwork** to find the root cause (get results /OOC).
+6. **Talk about a pacemaker** if the patient wants long-term treatment.
+
+---
+
+## Atrial Fibrillation (AFib)  
+Irregular and often fast heart rate — can lead to stroke or heart failure.
+
+### What to Look For:
+- Fluttering heartbeat
+- Tiredness or weakness
+- Dizzy or lightheaded
+- Trouble breathing
+- Chest feels strange or uncomfortable
+
+### What To Do:
+1. **Take the patient's vitals.**
+2. **Run an ECG** (stick probes on chest to check heart rhythm).
+3. **Give oxygen** if their oxygen levels are low.
+4. **Ask if they’ve had heart issues** before — this raises risk of stroke.
+5. **Mention long-term options**:
+   - Blood thinners (to prevent clots)
+   - Beta-blockers (to slow down the heart)
+   - A pacemaker (requires surgery, no future metal detectors, no follow-ups needed)
 
 ---
 
