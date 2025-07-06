@@ -6,4 +6,4 @@ has_children: true
 ---
 
 {: .highlight }
-> Don't forget, you can use the search function above to find items quickly if you are in a hurry
+> **NOTE:** Don't forget, you can use the search function above to find items quickly if you are in a hurry
