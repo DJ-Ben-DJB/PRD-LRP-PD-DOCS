@@ -4,7 +4,7 @@ title: EMS Onboarding
 parent: SOP
 ---
 
-# Introduction
+# EMS Onboarding 
 
 As a member of this department, your role extends beyond saving lives. You’re now shaping the ones who will stand beside you in the field. This handbook is designed to equip you with the tools, techniques, and expectations necessary to train the next generation of EMS professionals.
 You know the job: it’s fast, unforgiving, and doesn’t wait for anyone to catch up. That’s why we rely on leaders like you to pass on more than just procedure. We need you to pass on discipline, resilience, and the unshakable calm that only experience can teach.
