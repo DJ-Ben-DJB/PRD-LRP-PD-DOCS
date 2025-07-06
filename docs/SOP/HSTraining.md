@@ -4,7 +4,7 @@ title: Hospital Staff - EMS Training
 parent: SOP
 ---
 
-# Medical Roleplay Training Guide
+# Hospital Staff Medical Roleplay Training Guide
 
 This training roadmap outlines the core competencies and milestones required to build knowledge and confidence as a **Hospital Staff** medical roleplayer.
 
