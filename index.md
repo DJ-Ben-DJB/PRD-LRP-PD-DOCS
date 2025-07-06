@@ -59,21 +59,25 @@ Our aim is to give you a simple, easy to follow framework for handling different
 <table>
 <tbody>
 <tr><td>
+<a href="/docs/SOP/Onboarding.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/training.jpg"></figure></a>
+</td><td>
+<a href="/docs/SOP/FRTraining.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/frtraining.jpg"></figure></a>
+</td><td>
+<a href="/docs/SOP/HSTraining.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/hstraining.jpg"></figure></a>
+</td></tr>
+<tr><td>
+<a href="/docs/SOP/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/radio.jpg"></figure></a>
+</td><td>
+<a href="/docs/SOP/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
+</td><td>
+<a href="/docs/SOP/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/reports.jpg"></figure></a>
+</td></tr>
+<tr><td>
 <a href="/docs/SOP/Basic.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/sop.jpg"></figure></a>
 </td><td>
 <a href="/docs/SOP/Imaging.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/imaging.jpg"></figure></a>
 </td><td>
 <a href="/docs/SOP/Privacy.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/privacy.jpg"></figure></a>
-</td></tr>
-<tr><td>
-<a href="/docs/SOP/Training.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/training.jpg"></figure></a>
-</td><td>
-<a href="/docs/SOP/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/radio.jpg"></figure></a>
-</td><td>
-<a href="/docs/SOP/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/reports.jpg"></figure></a>
-</td></tr>
-<tr><td>
-<a href="/docs/SOP/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
 </td></tr>
 </tbody>
 </table>
