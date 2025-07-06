@@ -68,7 +68,7 @@ Our aim is to give you a simple, easy to follow framework for handling different
 <tr><td>
 <a href="/docs/SOP/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/radio.jpg"></figure></a>
 </td><td>
-<a href="/docs/SOP/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
+<a href="/docs/SOP/Uniforms.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure></a>
 </td><td>
 <a href="/docs/SOP/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/reports.jpg"></figure></a>
 </td></tr>
@@ -77,7 +77,7 @@ Our aim is to give you a simple, easy to follow framework for handling different
 </td><td>
 <a href="/docs/SOP/Imaging.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/imaging.jpg"></figure></a>
 </td><td>
-<a href="/docs/SOP/Privacy.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/privacy.jpg"></figure></a>
+<a href="/docs/SOP/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/triage.jpg"></figure></a>
 </td></tr>
 </tbody>
 </table>
