@@ -59,7 +59,7 @@ Our aim is to give you a simple, easy to follow framework for handling different
 <table>
 <tbody>
 <tr><td>
-<a href="/docs/SOP/Onboarding.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/training.jpg"></figure></a>
+<a href="/docs/SOP/Onboarding.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/onboarding.jpg"></figure></a>
 </td><td>
 <a href="/docs/SOP/FRTraining.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/frtraining.jpg"></figure></a>
 </td><td>
