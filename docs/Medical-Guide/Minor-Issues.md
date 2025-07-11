@@ -25,6 +25,13 @@ These injuries are among the most common and are typically non-life-threatening.
 - Elevate the affected limb if possible to further reduce swelling.
 - Document any signs of abnormal pain, discoloration, or potential fracture.
 
+### Useful Prompts
+
+`/me Looks Over Patient and Assesses for Injuries`
+
+`/me Activates Ice Pack, wraps it in a Gauze pad and applies to bruised area`
+
+
 ---
 
 ## At Hospital
