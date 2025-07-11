@@ -38,6 +38,32 @@ Gunshot wounds (GSWs) are among the most critical and unpredictable injuries you
 - **Apply pressure bandage**, but **do NOT pack the wound**—this could push the bullet deeper.
 - **Get patient to the hospital ASAP.**
 
+## Useful Prompts
+
+`/me Looks Over Patient and Assesses for Injuries`
+
+`/me Quickly Grabs IFAK Trauma Kit from EMS bag`
+
+`/me Also Grabs Scissors and multiple Gauze Pads…`
+
+`/me Carefully Cuts Away Clothing to Fully Visualise Entrance Wound`
+
+`/me Applies pressure to wound with Gauze Pad to try stop bleeding`
+
+`/me Opens QuikClot Package, Empties Contents onto wound`
+
+`/me Grabs Tourniquet Belt from EMS bag, Wraps It Round Limb to Restrict Blood Flow`
+
+`/me Grabs Intravenous Line and Establishes IV on Patients arm…`
+
+`/me Pulls Out O2 Canister and Nasal-cain Lines from EMS Bag`
+
+`/me Places Nasal-cain in Patients Nose and Opens O2 Value for Oxygen`
+
+`/me Injects Tranexamic Acid (TXA) to help slow down blood loss`
+
+`/me Grabs more Gauze Pads and Bandages`
+
 ---
 
 ## At Hospital Care
