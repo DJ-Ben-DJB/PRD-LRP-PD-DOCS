@@ -35,6 +35,16 @@ Helping someone who’s drowned — act fast and follow these steps.
 9. **Start an IV and give Lasix** (if they drowned in saltwater).
 10. **Transport the patient to the hospital.**
 
+## Useful Prompts
+
+`/me Looks Over Patient and Assesses for Injuries`
+
+`/me Rolls Patient onto their Side`
+
+`/me Helps Patient Cough up Water`
+
+`/me Checks if patient is Breathing and Looks Over vitals`
+
 ---
 
 ## At Hospital Care 
