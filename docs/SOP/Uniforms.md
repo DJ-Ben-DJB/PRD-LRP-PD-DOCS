@@ -17,6 +17,55 @@ The EMS, being a out-ward facing Government department, enforces a strong ranked
 
 ### Male
 
+<table>
+<tbody>
+<tr><td>
+
+**Trainee EMT - Male**
+Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
+- White Shirt
+- Dark Trousers
+- EMS Patch
+
+Medical Services EUP Items:
+- **Male EMS Trainee S-Sleeve**
+- **Male EMS Trainee L-Sleeve**
+
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td></tr>
+<<tr><td>
+TEXT
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td></tr>
+<tr><td>
+TEXT
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td></tr>
+<<tr><td>
+TEXT
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td></tr>
+<tr><td>
+TEXT
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+</td></tr>
+</tbody>
+</table>
 ### Female
 
 ---
