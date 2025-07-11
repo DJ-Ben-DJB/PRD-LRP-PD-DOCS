@@ -26,7 +26,7 @@ Burn injuries—whether caused by fire, hot surfaces, or caustic chemicals—are
    *Note: Don’t scrub or apply pressure.*
 
 
-## Useful Prompts
+### Useful Prompts
 
 `/me Looks Over Patient and Assesses for Injuries`
 

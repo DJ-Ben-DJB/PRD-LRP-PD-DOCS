@@ -18,6 +18,18 @@ Lacerations are wounds caused by blunt trauma, sharp objects, or tearing of the 
 - **Apply a pressure bandage** firmly over the packed wound to control active bleeding and keep the gauze in place.
 - If bleeding is heavy or doesn't slow, be ready to apply a tourniquet if it's a limb injury.
 
+### Useful Prompts
+
+`/me Looks Over Patient and Assesses for Injuries`
+
+`/me Grabs sterile Saline and Gauze pads from EMS Bag`
+
+`/me Pours sterile Saline over cuts to remove surface foreign material`
+
+`/me Applies Saline to Gauze pads and applies pressure to the wounds`
+
+`/me Wraps Gauze bandage tightly around wounds and cuts`
+
 ---
 
 ## At Hospital Care

@@ -38,7 +38,9 @@ Gunshot wounds (GSWs) are among the most critical and unpredictable injuries you
 - **Apply pressure bandage**, but **do NOT pack the wound**—this could push the bullet deeper.
 - **Get patient to the hospital ASAP.**
 
-## Useful Prompts
+---
+
+### Useful Prompts
 
 `/me Looks Over Patient and Assesses for Injuries`
 
