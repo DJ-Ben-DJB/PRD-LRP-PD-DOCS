@@ -26,14 +26,19 @@ Burn injuries—whether caused by fire, hot surfaces, or caustic chemicals—are
    *Note: Don’t scrub or apply pressure.*
 
 
-## Useful `/me` Prompts
+## Useful Prompts
 
-`/me Looks over patient and assesses for Injuries`
-`/me Grabs Intravenous line and establishes IV on Patients arm`
-`/me Starts IV with Saline to restore fluid balance and hydrate tissues`
-`/me Pours sterile Saline over burns to remove surface foreign material`
-`/me Applies Burn Gel to cool skin`
-`/me Loosly applies non-stick gauze pad to burn`
+`/me Looks Over Patient and Assesses for Injuries`
+
+`/me Grabs Intravenous Line and Establishes IV on Patients Arm`
+
+`/me Starts IV with Saline to Restore Patients Fluid Balance and Hydrate Tissues`
+
+`/me Pours Sterile Saline Over Burns to Remove Foreign Material`
+
+`/me Applies Burn Gel to Cool Skin`
+
+`/me Loosly Applies Non-Stick Gauze Pad to Burn Area`
 
 ---
 
