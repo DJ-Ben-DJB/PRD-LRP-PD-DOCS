@@ -25,6 +25,16 @@ Burn injuries—whether caused by fire, hot surfaces, or caustic chemicals—are
 2. **Gently rinse the area** with saline to help cool the burn.  
    *Note: Don’t scrub or apply pressure.*
 
+
+## Useful `/me` Prompts
+
+`/me Looks over patient and assesses for Injuries`
+`/me Grabs Intravenous line and establishes IV on Patients arm`
+`/me Starts IV with Saline to restore fluid balance and hydrate tissues`
+`/me Pours sterile Saline over burns to remove surface foreign material`
+`/me Applies Burn Gel to cool skin`
+`/me Loosly applies non-stick gauze pad to burn`
+
 ---
 
 ## At Hospital Care
