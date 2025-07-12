@@ -20,17 +20,16 @@ The EMS, being a out-ward facing Government department, enforces a strong ranked
 <table>
 <tbody>
 <tr><td>
-
-**Trainee EMT - Male**
+Trainee EMT - Male
+</td><td>
 Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
 - White Shirt
 - Dark Trousers
 - EMS Patch
-
+</td><td>
 Medical Services EUP Items:
-- **Male EMS Trainee S-Sleeve**
-- **Male EMS Trainee L-Sleeve**
-
+- Male EMS Trainee S-Sleeve
+- Male EMS Trainee L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
