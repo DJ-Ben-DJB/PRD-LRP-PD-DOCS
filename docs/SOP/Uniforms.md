@@ -41,11 +41,19 @@ Medical Services EUP Items:
 <<tr><td>
 TEXT
 </td><td>
+TEXT
+</td><td>
+TEXT
+</td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td></tr>
 <tr><td>
+TEXT
+</td><td>
+TEXT
+</td><td>
 TEXT
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
@@ -55,11 +63,19 @@ TEXT
 <<tr><td>
 TEXT
 </td><td>
+TEXT
+</td><td>
+TEXT
+</td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td></tr>
 <tr><td>
+TEXT
+</td><td>
+TEXT
+</td><td>
 TEXT
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
@@ -68,6 +84,7 @@ TEXT
 </td></tr>
 </tbody>
 </table>
+
 ### Female
 
 ---
