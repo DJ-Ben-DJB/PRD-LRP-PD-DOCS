@@ -41,9 +41,9 @@ Male EMS Trainee S-Sleeve
 Male EMS Trainee L-Sleeve
 
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temsshortmale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temslongmale.jpg"></figure>
 </td></tr>
 <<tr><td>
 
@@ -67,9 +67,9 @@ Male EMS Junior Para S-Sleeve
 Male EMS Junior Para L-Sleeve
 
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortmale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemslongmale.jpg"></figure>
 </td></tr>
 <tr><td>
 
@@ -91,9 +91,9 @@ Male EMS Paramedic S-Sleeve
 Male EMS Paramedic L-Sleeve
 
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortmale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemslongmale.jpg"></figure>
 </td></tr>
 <<tr><td>
 
@@ -116,9 +116,9 @@ Male EMS Adv-Paramedic S-Sleeve
 Male EMS Adv-Paramedic L-Sleeve
 
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/supemsshortmale.jpg"></figure>
 </td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/supemslongmale.jpg"></figure>
 </td></tr>
 </tbody>
 </table>
