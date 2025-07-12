@@ -20,18 +20,23 @@ The EMS, being a out-ward facing Government department, enforces a strong ranked
 <table>
 <tbody>
 <tr><td>
+
 Trainee EMT - Male
+
 </td><td>
+
 Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
 
-- White Shirt
-- Dark Trousers
-- EMS Patch
+White Shirt
+Dark Trousers
+EMS Patch
+
 </td><td>
+
 Medical Services EUP Items:
 
-- Male EMS Trainee S-Sleeve
-- Male EMS Trainee L-Sleeve
+Male EMS Trainee S-Sleeve
+Male EMS Trainee L-Sleeve
 
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
@@ -39,44 +44,73 @@ Medical Services EUP Items:
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td></tr>
 <<tr><td>
-TEXT
+
+Emergency Medical Tech (EMT) - Male
+
 </td><td>
-TEXT
+
+After being promoted to EMT, an employee of the service will receive their Badge and a set of insignia/epaulettes.
+
+Light Blue Shirt
+Badge
+Can be long or short sleeved
+
 </td><td>
-TEXT
+
+Medical Services EUP Items:
+
+Male EMS Junior Para S-Sleeve
+Male EMS Junior Para L-Sleeve
+
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td></tr>
 <tr><td>
-TEXT
+
+Paramedic - Male
+
 </td><td>
-TEXT
+
+After being promoted to Paramedic an employee will receive a new set of insignia/epaulettes.
+
+Light Blue Shirt
+Badge
+Can be long or short sleeved
+
 </td><td>
-TEXT
+
+Medical Services EUP Items:
+
+Male EMS Paramedic S-Sleeve
+Male EMS Paramedic L-Sleeve
+
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td></tr>
 <<tr><td>
-TEXT
+
+First Response Supervisor - Male
+
 </td><td>
-TEXT
+
+After being promoted to First Response Supervisor an employee will receive a new shirt and an insignia/epaulettes. 
+
+Black Shirt
+Badge
+Black Insignia/epaulettes (Triple Bar) 
+Can be long or short sleeved
+
 </td><td>
-TEXT
-</td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
-</td><td>
-<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
-</td></tr>
-<tr><td>
-TEXT
-</td><td>
-TEXT
-</td><td>
-TEXT
+
+Medical Services EUP Items:
+
+Male EMS Adv-Paramedic S-Sleeve
+Male EMS Adv-Paramedic L-Sleeve
+
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms.jpg"></figure>
 </td><td>
