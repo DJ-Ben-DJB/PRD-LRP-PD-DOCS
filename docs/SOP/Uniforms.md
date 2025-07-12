@@ -27,6 +27,7 @@ Trainee EMT - Male
 
 Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
 
+
 White Shirt
 Dark Trousers
 EMS Patch
@@ -34,6 +35,7 @@ EMS Patch
 </td><td>
 
 Medical Services EUP Items:
+
 
 Male EMS Trainee S-Sleeve
 Male EMS Trainee L-Sleeve
@@ -51,6 +53,7 @@ Emergency Medical Tech (EMT) - Male
 
 After being promoted to EMT, an employee of the service will receive their Badge and a set of insignia/epaulettes.
 
+
 Light Blue Shirt
 Badge
 Can be long or short sleeved
@@ -58,6 +61,7 @@ Can be long or short sleeved
 </td><td>
 
 Medical Services EUP Items:
+
 
 Male EMS Junior Para S-Sleeve
 Male EMS Junior Para L-Sleeve
