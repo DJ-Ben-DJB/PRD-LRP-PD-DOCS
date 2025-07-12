@@ -37,7 +37,7 @@ Male EMS Trainee L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temslongmale.jpg"></figure>
 </td></tr>
-<<tr><td>
+<tr><td>
 Emergency Medical Tech (EMT) - Male
 </td><td>
 After being promoted to EMT, an employee of the service will receive their Badge and a set of insignia/epaulettes.
@@ -73,7 +73,7 @@ Male EMS Paramedic L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemslongmale.jpg"></figure>
 </td></tr>
-<<tr><td>
+<tr><td>
 First Response Supervisor - Male
 </td><td>
 After being promoted to First Response Supervisor an employee will receive a new shirt and an insignia/epaulettes. 
