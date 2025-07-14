@@ -18,6 +18,17 @@ The EMS, being a out-ward facing Government department, enforces a strong ranked
 ### Male
 
 <table>
+<tr><th>
+Uniform
+</th><th>
+Description
+</th><th>
+Medical Services EUP Items
+</th><th>
+Short Sleeve
+</th><th>
+Long Sleeve
+</th></tr>
 <tbody>
 <tr><td>
 Trainee EMT - Male
