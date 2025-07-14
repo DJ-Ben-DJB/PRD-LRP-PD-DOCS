@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unnatural (Paranormal )
+title: Unnatural (Paranormal)
 parent: Medical-Guide
 ---
 
