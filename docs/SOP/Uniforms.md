@@ -40,7 +40,7 @@ Dark Trousers
 EMS Patch
 </td><td>
 Male EMS Trainee S-Sleeve
-
+/
 Male EMS Trainee L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temsshortmale.jpg"></figure>
@@ -57,7 +57,7 @@ Badge
 Can be long or short sleeved
 </td><td>
 Male EMS Junior Para S-Sleeve
-
+/
 Male EMS Junior Para L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortmale.jpg"></figure>
@@ -74,7 +74,7 @@ Badge
 Can be long or short sleeved
 </td><td>
 Male EMS Paramedic S-Sleeve
-
+/
 Male EMS Paramedic L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emtemsshortmale.jpg"></figure>
@@ -92,7 +92,7 @@ Black Insignia/epaulettes (Triple Bar)
 Can be long or short sleeved
 </td><td>
 Male EMS Adv-Paramedic S-Sleeve
-
+/
 Male EMS Adv-Paramedic L-Sleeve
 </td><td>
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/supemsshortmale.jpg"></figure>
