@@ -4,6 +4,7 @@ theme: just-the-docs
 url: https://dj-ben-djb.github.io/PRD-LRP-EMS-DOCS
 
 logo: "/assets/images/emslogo.png"
+favicon_ico: "/assets/images/favicon.png"
 
 color_scheme: dark
 
