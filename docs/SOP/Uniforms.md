@@ -271,6 +271,78 @@ Male Hospital Pillbox Specialist
 
 ### Female
 
+<table>
+<tr><th>
+Uniform
+</th><th>
+Description
+</th><th>
+Medical Services EUP Items
+</th><th>
+Uniform
+</th><th>
+Uniform
+</th></tr>
+<tbody>
+<tr><td>
+Trainee Nurse - Female
+</td><td>
+Being a newly employed member of the service, this is reflected with the Uniform. Having basic Insignia, or epaulettes and no badge
+
+White Shirt
+Dark Trousers
+EMS Patch
+</td><td>
+Female EMS Trainee S-Sleeve
+/
+Female EMS Trainee L-Sleeve
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temsshortfemale.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/temslongfemale.jpg"></figure>
+</td></tr>
+<tr><td>
+Nurse - Female
+</td><td>
+After being promoted to Nurse, an employee of the service will receive their Nurse Uniform and a name tag
+
+Navy Blue Shirt
+Badge
+Short sleeved only
+</td><td>
+Female Hospital Pillbox Nurse
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/nurseemsfemale.jpg"></figure>
+</td></tr>
+<tr><td>
+Doctor - Female
+</td><td>
+After being promoted to Doctor an employee will receive a new uniform.
+
+White Lab Coat
+Badge
+</td><td>
+Female Hospital Pillbox Doctor
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/doctoremsfemale.jpg"></figure>
+</td></tr>
+<tr><td>
+Hospital Supervisor - Female
+</td><td>
+After being promoted to Hospital Supervisor an employee will receive a new shirt and Trousers 
+
+White Shirt
+Grey Trousers
+Black Shoes
+Badge
+</td><td>
+Female Hospital Pillbox Specialist
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/specemsfemale.jpg"></figure>
+</td></tr>
+</tbody>
+</table>
+
 --- 
 
 ## Specialist
