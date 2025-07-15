@@ -451,3 +451,48 @@ Female PPE Kit
 
 ## Management
 
+<table>
+<tr><th>
+Uniform
+</th><th>
+Description
+</th><th>
+Medical Services EUP Items
+</th><th>
+Male
+</th><th>
+Female
+</th></tr>
+<tbody>
+<tr><td>
+Assistant Chiefs
+</td><td>
+Assistant Chiefs have one Uniform
+Insignia/epaulettes - Single Golden Bar
+
+</td><td>
+Male EMS Pullover
+/
+Female EMS Pullover
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/asemsmale.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/asemsfemale.jpg"></figure>
+</td></tr>
+<tr><td>
+Chief of EMS
+</td><td>
+The Chief of EMS have One Uniform.
+Same as Assistant Chief but with different Insignia/epaulettes
+Insignia/epaulettes - Quad Golden Bar
+</td><td>
+Male EMS Pullover
+/
+Female EMS Pullover
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/asemsmale.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/asemsfemale.jpg"></figure>
+</td></tr>
+</tbody>
+</table>
