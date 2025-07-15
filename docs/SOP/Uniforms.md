@@ -8,7 +8,7 @@ parent: SOP
 
 The EMS, being a out-ward facing Government department, enforces a strong ranked uniform policy. As an employee climbs the ranks within the department, they will receive new uniforms and insignia/epaulettes. 
 
-All Uniforms are easily accesable from the EUP Locker/Menu using `/eup`
+All uniforms are easily accesable from the EUP Locker/Menu > Medical Services, using `/eup`
 
 {: .highlight }
 > all staff are not to carry any weapons, including licensed firearms when on shift (except non-lethal tasers, or via Pre-Authorisation under special circumstances). The EMS staff are employed to save people, not harm. This also reduces the risk for staff, as they will not be targeted by criminals for robbery.
@@ -349,7 +349,103 @@ Female Hospital Pillbox Specialist
 
 ### Male
 
+<table>
+<tr><th>
+Uniform
+</th><th>
+Description
+</th><th>
+Medical Services EUP Items
+</th><th>
+Uniform
+</th><th>
+Uniform
+</th></tr>
+<tbody>
+<tr><td>
+EMS - Cold Weather - Male
+</td><td>
+Used if Cold Weather is around
+
+</td><td>
+Male EMS Winter Jacket
+/
+Male EMS Trainee Jacket
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emswintermale1.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emswintermale2.jpg"></figure>
+</td></tr>
+<tr><td>
+EMS Tactical - Male
+</td><td>
+Used if required to attend high-risk encounters supervised by PD
+</td><td>
+Male EMS Tac-Medic
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emstacmale.jpg"></figure>
+</td></tr>
+<tr><td>
+EMS - PPE Kit - Male
+</td><td>
+Used near Biohazards and scenes that require some additional level of PPE
+</td><td>
+Male PPE Kit
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emsppemale.jpg"></figure>
+</td></tr>
+</tbody>
+</table>
+
 ### Female
+
+<table>
+<tr><th>
+Uniform
+</th><th>
+Description
+</th><th>
+Medical Services EUP Items
+</th><th>
+Uniform
+</th><th>
+Uniform
+</th></tr>
+<tbody>
+<tr><td>
+EMS - Cold Weather - Female
+</td><td>
+Used if Cold Weather is around
+
+</td><td>
+Female EMS Winter Jacket
+/
+Female EMS Trainee Jacket
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emswinterfemale1.jpg"></figure>
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emswinterfemale2.jpg"></figure>
+</td></tr>
+<tr><td>
+EMS Tactical - Female
+</td><td>
+Used if required to attend high-risk encounters supervised by PD
+</td><td>
+Female EMS Tac-Medic
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emstacfemale.jpg"></figure>
+</td></tr>
+<tr><td>
+EMS - PPE Kit - Female
+</td><td>
+Used near Biohazards and scenes that require some additional level of PPE
+</td><td>
+Female PPE Kit
+</td><td>
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/uniforms/emsppefemale.jpg"></figure>
+</td></tr>
+</tbody>
+</table>
 
 ---
 
