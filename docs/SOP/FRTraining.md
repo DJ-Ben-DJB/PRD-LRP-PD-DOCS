@@ -168,6 +168,155 @@ The Assessor will grade the candidate on:
 
   --- 
 
+## Advanced Driving Certification 1 (ADC1) – Ambulance
+
+The Advanced Driving Certification is designed to evaluate an employee's ability to safely and confidently operate an emergency vehicle under pressure. This course ensures that all EMS personnel meet the high standards required for **Code 2** and **Code 3** responses.
+
+- **Part 1**: Focuses on controlled driving, road awareness, and vehicle handling using an Ambulance in a low-risk scenario.
+- **Part 2:** Focuses on Code 3 response (lights and sirens active) with high speed using an Ambulance in a low-risk scenario.
+
+
+## Part 1 (ADC1) 
+
+### Instructions
+
+- Depart from **Sandy Shores Hospital** on **Code 2** (lights on, sirens off).
+- Follow the designated route to the **dock on the northern shore of the Alamo Sea**.
+- Upon arrival, turn around and return via the same route to Sandy Shores Hospital.
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/vehicle/adc1p1.jpg"></figure>
+
+### Evaluation Criteria
+
+- No strict time limit is enforced; however, the drive must be completed at a **reasonable pace**.
+- Trainees must demonstrate **full control of the vehicle**, **avoiding collisions** and **major handling errors**.
+- Proper **traffic awareness**, **reaction to surroundings**, and **consistent focus** are expected throughout the assessment.
+
+
+## Part 2 (ADC1) 
+
+### Instructions
+
+- Depart from **Sandy Shores Hospital** on **Code 3** (lights on, sirens on).
+- Proceed to **South Los Santos Gas Station** entrance.
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/vehicle/adc1p2.jpg"></figure>
+
+### Evaluation Criteria
+
+- There is a set **time limit of 5 minutes**, but the trainee is expected to drive swiftly and safely.
+- The route must be completed **without collisions**, **major handling errors**, or **excessive damage** to the vehicle.
+- Trainees should demonstrate strong **situational awareness**, **proper use of sirens**, and **responsible navigation** through traffic.
+
+---
+
+## Advanced Driving Certification 2 (ADC2) – STX
+
+ADC 2 focuses on the handling and operational control of the **STX**, a high-performance emergency response vehicle. Due to its **speed** , this vehicle is **restricted to Paramedics and higher**. It is essential that the individual operating it demonstrates full control and advanced driving judgment.
+
+### Instructions
+
+- Trainees will begin at **Sandy Shores Hospital**.
+- The **STX will be inspected for damage** prior to starting.
+- If the vehicle is in acceptable condition, the assessment will proceed.
+- The trainee will follow a designated **red-marked course**, beginning with an ascent of Mt. Chiliad via the Grapeseed approach.
+- After reaching the summit, they will descend toward Paleto before returning to Sandy Shores Hospital.
+- The course includes challenging off-road terrain and demands a high level of vehicle control, especially at elevation.
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/vehicle/adc2p1.jpg"></figure>
+
+### Evaluation Criteria
+
+- While **no strict time limit** is enforced, the route should be completed at a **reasonable pace**, with an emphasis on **safety and control**.
+- The trainee must **avoid collisions and excessive vehicle damage**.
+- Given the increased difficulty of this route compared to previous certifications, some leeway may be granted — at the assessor’s discretion.
+
+---
+
+## Air Rescue - Flight Assessment Certification (ARC)
+
+The Air Rescue Certification is designed to ensure EMS personnel are fully prepared to operate **ANGEL-1**, our dedicated medical response helicopter. This assessment covers **flight safety**, **emergency procedures**, and **practical landing skills** in challenging environments.
+
+Only those holding the rank of **Paramedic or above** may begin this course, as it involves handling one of the most **specialised and high-risk** roles within EMS.
+
+Successful completion certifies the trainee for Air Rescue operations, pending final deployment approval by senior staff.
+
+### Orientation & Flight Safety Briefing
+
+Before takeoff, the assessor must provide a safety overview covering essential aspects of helicopter operations:
+
+**Helicopter Safety Protocols:**
+- Pilots must wear **secure clothing and footwear**. Avoid loose garments that could interfere with rotor mechanisms or harnesses in emergencies.
+- Approach the helicopter from the **front or side**, **never from behind** the tail rotor.
+- All crew and passengers must remain at a safe distance until the pilot gives clearance to board.
+
+### ANGEL-1 Operational Guidelines
+
+When considering deployment of ANGEL-1 (Air Rescue Helicopter), trainees must be trained to evaluate the situation with the following in mind:
+- **Urgency**: Is the patient in **critical condition** and located in an area where ground access would be significantly delayed?
+- **Location**: Is the patient in a **remote or inaccessible location**, such as an island, mountain, or rugged off-road terrain?
+- **Authorisation**: Has the pilot received **supervisor clearance** for **ANGEL-1** deployment? Unauthorised use is strictly prohibited.
+- **Purpose**: ANGEL-1 is **not a convenience transport**. It is a costly emergency response unit and must be used responsibly.
+
+### Emergency Landing / Imminent Crash:
+
+- Identify and aim for a **safe landing zone**, away from populated areas.
+- Transmit a **Mayday call** with your location and intended course of action to alert all relevant emergency services.
+- If control is maintained, **use autorotation** to reduce impact severity.
+- Upon landing (if engine is still running), **cut power**, reduce **throttle to zero**, and secure the landing zone.
+- Assess and treat **crew and passengers** for any injuries.
+
+### Under Attack / Small Arms Fire:
+
+- **Immediately report** the threat to Law Enforcement and EMS dispatch.
+- If the source is visible and flight remains viable, **evade and retreat** at best speed.
+- If the threat is unclear or the aircraft is compromised, **initiate emergency landing procedures** as outlined above.
+
+### Passenger Flight Controls (Infrared and Search Lights)
+
+In addition, the use of the EMS Chopper Cam and Night vision will also be discussed:
+- **<E>**- Use Cam as passenger
+- **<Space>** - Lock on to vehicles (alt approx 100 ft)
+- **<RMB>** - Switch modes (Day, Night, Heat)
+- **<G>** - Spotlight
+
+## Part 1 (ARC) - Flight Test – Practical Evaluation
+
+### Instructions
+
+The trainee will take off in **ANGEL-1** from **Pillbox Heli-pad**, ascending to a minimum altitude of **200-400 ft AGL**. They must safely navigate to and land at the following locations:
+- **Maze Bank Tower**
+- **Richards Majestic** (7226)
+- Then return to **Pillbox**
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/vehicle/arc1p1.jpg"></figure>
+
+### Evaluation Criteria
+
+- Smooth takeoff and landings
+- No damage to aircraft or surroundings
+- Controlled flight path and situational awareness
+
+## Part 2 (ARC) - Dynamic Landing Assessment
+
+For the final phase of certification, the assessor will choose **two** out of the following four locations for the trainee to respond to:
+- **Bolingbroke Prison**
+- **Chumash Pier**
+- **Vinewood Bowl**
+- **Sandy Shores**
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/vehicle/arc1p2.jpg"></figure>
+
+
+### Evaluation Criteria
+
+The trainee must identify and utilise a safe landing zone near the selected location and perform controlled landings.
+Assessment Focus:
+- Choice of landing zone
+- Stability and control during descent
+- Trainee's rationale for selecting the landing site
+
+
 
 
 
