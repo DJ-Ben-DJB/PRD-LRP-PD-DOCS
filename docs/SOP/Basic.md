@@ -79,7 +79,7 @@ The Supervisor group is reserved for the most experienced First Responders & Hos
 
 ## EMS Training & Progression Summary
 
-This EMS development model outlines a structured, tiered progression for emergency medical staff, divided into two primary career paths: the Hospital Track and the First Response Track. Each track consists of four progressive levels (G-1 to G-4), designed to build essential skills, deepen medical knowledge, and develop leadership capabilities.
+This EMS development model outlines a structured, tiered progression for emergency medical staff, divided into two primary career paths: the **Hospital Track** and the **First Response Track**. Each track consists of **four progressive levels** (G-1 to G-4), designed to build essential skills, deepen medical knowledge, and develop leadership capabilities.
 
 <figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/progression.jpg"></figure>
 
