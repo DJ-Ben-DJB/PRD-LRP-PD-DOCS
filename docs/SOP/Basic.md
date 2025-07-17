@@ -76,3 +76,42 @@ The Supervisor group is reserved for the most experienced First Responders & Hos
 - Trainee EMT
 
 ---
+
+## EMS Training & Progression Summary
+
+This EMS development model outlines a structured, tiered progression for emergency medical staff, divided into two primary career paths: the Hospital Track and the First Response Track. Each track consists of four progressive levels (G-1 to G-4), designed to build essential skills, deepen medical knowledge, and develop leadership capabilities.
+
+<figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/progression.jpg"></figure>
+
+### Hospital Track (G-1 to G-4)
+This track prepares staff for in-hospital patient care and leadership in medical facility settings.
+
+**G-1: Trainee Nurse**
+- Entry-level training focused on basic patient care, hospital workflows, vital signs, hygiene, and basic documentation. Trainees shadow senior nurses and gain initial exposure to medications and IV preparation.
+
+**G-2: Nurse**
+- Nurses learn to administer medications, manage patient documentation, assist in triage, and support doctors in procedures. Training emphasizes communication, charting accuracy, and conflict resolution.
+
+**G-3: Doctor**
+- Doctors develop diagnostic and treatment skills, perform minor procedures, and coordinate closely with nurses and EMTs. They are trained in emergency response and case handovers within the hospital.
+
+**G-4: Hospital Supervisor**
+- Supervisors oversee hospital operations, manage staff schedules, resolve conflicts, and lead triage during high-pressure events. Leadership development, staff mentoring, and communication with EMS teams are key focuses.
+
+### First Response Track (G-1 to G-4)
+This track equips EMS personnel to operate in the field, respond to emergencies, and take command at incident scenes.
+
+**G-1: Trainee EMT**
+- Trainees learn scene safety, basic triage, CPR, and first aid. They are introduced to EMT equipment, communication protocols, and gain field experience through supervised ride-alongs.
+
+**G-2: Emergency Medical Technician (EMT)**
+- EMTs build on foundational skills by learning to administer basic medications, assess patients in the field, and manage transport to hospitals. They handle real-world trauma and medical call scenarios.
+
+**G-3: Paramedic**
+- Paramedics receive advanced training in life support, airway management, cardiac monitoring, and critical care transport. They lead at complex scenes and manage multi-casualty incidents.
+
+**G-4: First Response Supervisor**
+- Supervisors coordinate EMS field teams, interface with police/fire services, lead debriefings, and mentor EMTs and paramedics. Training includes leadership simulations and evaluations of critical scenes.
+
+### Role Progression Criteria
+Staff must spend a minimum of 3 months in each grade level, actively participating and demonstrating role proficiency through performance evaluations and practical assessments.
