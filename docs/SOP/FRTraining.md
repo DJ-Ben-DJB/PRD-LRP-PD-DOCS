@@ -275,10 +275,10 @@ When considering deployment of ANGEL-1 (Air Rescue Helicopter), trainees must be
 ### Passenger Flight Controls (Infrared and Search Lights)
 
 In addition, the use of the EMS Chopper Cam and Night vision will also be discussed:
-- **<E>**- Use Cam as passenger
-- **<Space>** - Lock on to vehicles (alt approx 100 ft)
-- **<RMB>** - Switch modes (Day, Night, Heat)
-- **<G>** - Spotlight
+- **'E'**- Use Cam as passenger
+- **'Space'** - Lock on to vehicles (alt approx 100 ft)
+- **'RMB'** *Right Mouse Button* - Switch modes (Day, Night, Heat)
+- **'G'** - Spotlight
 
 ## Part 1 (ARC) - Flight Test – Practical Evaluation
 
