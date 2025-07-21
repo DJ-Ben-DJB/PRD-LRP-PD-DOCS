@@ -18,7 +18,7 @@ Upon arrival at the scene:
 - Ensure Scene Safety: Make sure law enforcement has cleared the area if it was a crime or active shooter scene.
 - Assess the Situation: Check for signs of life (pulse, breathing, responsiveness).
    - If no vital signs are detected and it's clear the character is beyond revival, move to Step 2.
-   - If the player uses `/me` or OOC chat to indicate a permadeath (e.g., '/me has passed away permanently'), confirm that this is a permadeath and proceed.
+   - If the player uses `/me` or OOC chat to indicate a permadeath (e.g., `/me has passed away permanently`), confirm that this is a permadeath and proceed.
 
 ## Confirm Permadeath
 
