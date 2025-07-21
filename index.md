@@ -51,7 +51,8 @@ Our aim is to give you a simple, easy to follow framework for handling different
 </td><td>
 <a href="/docs/Medical-Guide/Respiratory.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/respiratory.jpg"></figure></a>
 </td><td>
-<a href="/docs/Medical-Guide/HandlingDeceased.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/deceased.jpg"></figure></a></td></tr>
+<a href="/docs/Medical-Guide/HandlingDeceased.html"><figure class="image"> <img src="https://raw.githubusercontent.com/DJ-Ben-DJB/PRD-LRP-EMS-DOCS/main/assets/images/deceased.jpg"></figure></a>
+</td></tr>
 </tbody>
 </table>
 
