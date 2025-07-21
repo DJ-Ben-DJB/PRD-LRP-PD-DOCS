@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handling Deceased / Permadeathed Characters
+title: Handling Deceased Permadeathed Characters
 parent: Medical-Guide
 ---
 
