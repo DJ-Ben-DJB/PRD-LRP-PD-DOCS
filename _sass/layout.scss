@@ -208,6 +208,10 @@ body {
   padding-bottom: $sp-4;
   color: $grey-dk-000;
 
+  @include container;
+
+  @include fs-2;
+  
   @include mq(md) {
     position: static;
     justify-self: end;
