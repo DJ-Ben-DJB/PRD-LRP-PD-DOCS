@@ -8,7 +8,7 @@ parent: Medical-Guide
 
 In the field, not every call is about physical injury or trauma. Some patients won’t be bleeding, won’t be unconscious, and won’t even want help — but they’ll still need it.
 
-Mental and behavioral health calls are among the most complex scenes EMS units will encounter. These situations often lack visible injuries but carry high emotional and psychological risk. Confusion, fear, and disorganized behavior can escalate quickly without proper response. The goal of this section is to provide EMS personnel with clear, professional tools to recognize, respond to, and stabilize individuals in mental or emotional distress — while preserving the safety and dignity of everyone involved.
+Mental and behavioral health calls are among the most complex scenes EMS units will encounter. These situations often lack visible injuries but carry high emotional and psychological risk. Confusion, fear, and disorganised behavior can escalate quickly without proper response. The goal of this section is to provide EMS personnel with clear, professional tools to recognise, respond to, and stabilise individuals in mental or emotional distress, while preserving the safety and dignity of everyone involved.
 
 This protocol exists to:
 
@@ -20,7 +20,7 @@ This protocol exists to:
 
 - Ensure smooth transitions from field response to medical facility hand-off
 
-EMS providers are often the first point of contact for individuals undergoing emotional crisis. Your presence, words, and actions may define whether that scene ends in chaos — or calm resolution.
+EMS providers are often the first point of contact for individuals undergoing emotional crisis. Your presence, words, and actions may define whether that scene ends in chaos or calm resolution.
 
 You are not expected to be a therapist. You are expected to be professional, observant, and compassionate. These techniques are here to help you fulfill that duty with confidence and control, even when the patient’s mind is in turmoil.
 
@@ -42,11 +42,11 @@ Each technique can be adapted depending on the situation, scene dynamics, and pa
 
 Use direct, clear, and reality-based speech to reconnect a distressed patient to the present moment.
 
-Use When:
+**Use When:**
 
 - The patient appears overwhelmed, dissociated, or panicked
 
-Key Phrases:
+**Key Phrases:**
 
 - “You’re here with me right now.”
 
@@ -62,11 +62,11 @@ Key Phrases:
 
 Slow down the situation with calm, structured conversation. Focus on tone and pacing, not urgency.
 
-Use When:
+**Use When:**
 
 - The patient is agitated, paranoid, or reacting erratically
 
-Steps:
+**Steps:**
 
 - Speak in short, gentle sentences
 
@@ -74,7 +74,7 @@ Steps:
 
 - Allow silence — don’t fill every gap
 
-Key Phrases:
+**Key Phrases:**
 
 - “I hear you.”
 
@@ -86,15 +86,15 @@ Key Phrases:
 
 ---
 
-## Breath Synchronization Technique
+## Breath Synchronisation Technique
 
 Guide the patient’s breathing by modeling your own. Calm breath can influence theirs subconsciously.
 
-Use When:
+**Use When:**
 
 - Patient is hyperventilating, anxious, or feels “trapped”
 
-Steps:
+**Steps:**
 
 - Breathe slowly and audibly
 
@@ -102,7 +102,7 @@ Steps:
 
 - Offer visual focus (e.g., your hand, a light, the sky)
 
-Key Phrases:
+**Key Phrases:**
 
 - “Just follow my breathing.”
 
@@ -116,11 +116,11 @@ Key Phrases:
 
 Remove or reduce environmental stimuli that may worsen symptoms.
 
-Use When:
+**Use When:**
 
 - The patient is overwhelmed by lights, noise, or a chaotic scene
 
-Steps:
+**Steps:**
 
 - Move the patient to a quieter spot (if safe)
 
@@ -130,13 +130,13 @@ Steps:
 
 - Create personal space around the patient
 
-Key Phrases:
+**Key Phrases:**
 
 - “Let’s step over here where it’s quieter.”
 
 - “You’re safe. No one’s crowding you.”
 
-- “Take a seat if you’d like — we’ve got time.”
+- “Take a seat if you’d like, we’ve got time.”
 
 ---
 
@@ -144,11 +144,11 @@ Key Phrases:
 
 Offer small, low-pressure decisions to give the patient a sense of control.
 
-Use When:
+**Use When:**
 
 - The patient is nervous, hesitant, or feeling powerless
 
-Steps:
+**Steps:**
 
 - Ask yes/no or binary questions
 
@@ -156,7 +156,7 @@ Steps:
 
 - Use cooperation language, not authority
 
-Examples:
+**Examples:**
 
 - “Would you rather sit on the curb or in the back of the unit?”
 
@@ -170,11 +170,11 @@ Examples:
 
 Use body language and posture to convey calm, safety, and professionalism.
 
-Use When:
+**Use When:**
 
 - The patient is skittish, defensive, or cornered
 
-Best Practices:
+**Best Practices:**
 
 - Keep hands visible
 
@@ -190,11 +190,11 @@ Best Practices:
 
 When a patient is overloaded or experiencing a panic episode, keep interaction minimal and focused.
 
-Use When:
+**Use When:**
 
 - The patient is non-verbal, trembling, or overreacting to sounds
 
-Technique:
+**Technique:**
 
 - Don’t flood them with questions
 
@@ -202,7 +202,7 @@ Technique:
 
 - Speak slowly and with pause
 
-Key Phrase:
+**Key Phrase:**
 
 - “I’m not going to rush you. We’re here to help — when you’re ready.”
 
