@@ -316,6 +316,130 @@ Assessment Focus:
 - Stability and control during descent
 - Trainee's rationale for selecting the landing site
 
+---
+
+## Mental Health Response Training
+
+Mental health emergencies can present in many forms, from emotional overload and panic attacks, to paranoia or extreme confusion. As an EMS provider, your response is not just medical, it’s psychological and tactical.
+This training manual provides the procedures, behavioral insights, and field-tested roleplay scenarios to prepare EMS units for realistic, in-character handling of psychiatric scenes.
+
+## SCENARIO 1 – THE ALLEYWAY
+A concerned citizen has called in a report of a man behaving erratically in a back alley in Davis. The subject is pacing, talking to himself, and appears unaware of his surroundings. No weapons are seen. PD has not been dispatched.
+
+### Scene Objective:
+- Establish a calm EMS presence
+- Perform a basic behavioral and mental assessment
+- Determine if the patient requires voluntary medical transport
+
+### Recommended Approach:
+- Park a short distance from the subject; do not use lights/sirens unless necessary.
+- Approach slowly, preferably with one unit engaging while another stays back for safety.
+- Announce presence using non-threatening phrases: “Hey there, I’m with EMS. Just want to check in — are you okay?”
+
+### Patient RP Behavior Prompts:
+`/me paces back and forth with quick, anxious steps, eyes flicking from side to side.`
+`/me mutters under his breath` “They know I’m here… I can feel it…” 
+`/me stops suddenly, staring at a rooftop, whispering` “There… there it is again.”
+`/me shakes his head rapidly and clenches his fists` “No, no, no — not again.”
+
+### EMS Expectations:
+- Avoid loud noises or rapid movements.
+- Speak clearly and calmly.
+
+**Ask simple grounding questions:**
+
+- “Can you tell me your name?”
+- “Do you know what day it is?”
+- “Would it be alright if we checked you out?”
+
+**Offer voluntary transport to a medical facility for further evaluation:**
+
+-“We can take you somewhere safe to talk to someone. You won’t be alone.”
+
+### Training Focus Points:
+- De-escalation techniques
+- Monitoring of body language
+- Recognition of hallucinations vs disorientation
+- Balance between professionalism and empathy
+
+## SCENARIO 2 – THE PARK BENCH
+Park rangers report a man who has remained seated in Legion Square Park for several hours, motionless. He has refused to engage with anyone, and appears emotionally withdrawn. No known threats or injuries are reported.
+
+### Scene Objective:
+- Assess for psychological distress or burnout
+- Engage with gentle verbal interaction
+- Provide a non-threatening environment for support
+
+### Recommended Approach:
+- Leave vehicle parked at a distance, walk in slowly.
+- Maintain a non-commanding tone. Sit or squat nearby if appropriate.
+
+**Approach with phrases like:**
+
+- “You’ve been out here a while. Mind if I sit with you?”
+- “You look like you’re going through something heavy. You don’t have to go through it alone.”
+
+### Patient RP Behavior Prompts:
+
+`/me sits stiffly on the bench, arms folded, staring straight ahead without moving`
+`/me slowly blinks, not reacting to sounds or voices at first`
+`/me whispers` “I haven’t been able to sleep. It just keeps spinning in my head.”
+`/me rubs his temples with shaking fingers and exhales heavily`
+
+### EMS Expectations:
+- Build rapport through stillness and time, don’t rush the interaction.
+- Avoid pressing too hard on personal questions.
+- Offer resources, warmth, and presence:
+  - “There’s nothing wrong with needing help. I can get you to someone who knows how to listen.”
+
+**Provide optional hospital transport:**
+
+- “We’re not here to force anything. If you’d like, we can take you somewhere quiet and safe.”
+
+### Training Focus Points:
+- Handling passive emotional withdrawal
+- Empathetic patient engagement
+- Recognising signs of exhaustion or depressive affect
+- Stillness and tone, not urgency
+
+## SCENARIO 3 – THE CLUB COLLAPSE
+Security staff at a nightclub reports a collapsed civilian at the club entrance. The subject is conscious, panicked, and complaining of chest tightness and rapid breathing. The caller states the subject is “freaking out,” possibly intoxicated or suffering from a panic episode.
+
+### Scene Objective:
+- Distinguish between panic attack and medical emergency
+- Calm the subject and guide them through regulated breathing
+- Provide non-judgmental support and safe transport
+
+### Recommended Approach:
+- Approach slowly, kneel to eye level.
+- Speak softly and avoid crowding the individual.
+
+**Start with supportive statements:**
+
+- “You’re okay. I’m right here with you.”
+- “Try to follow my breathing. In through your nose… now out…”
+
+### Patient RP Behavior Prompts:
+
+`/me sits on the pavement, panting and gripping their chest tightly`
+`/me gasps` “I can’t breathe… I think I’m dying…"
+`/me trembles, tears running down their face` “Everything’s closing in — I can’t stop it.”
+`/me claws at their shirt, trying to cool down, eyes darting wildly`
+
+### EMS Expectations:
+- Rule out cardiac/respiratory emergencies via vitals.
+- Calm the patient using structured breathing:
+  - “We’ll do it together — in… 2… 3… out… 2… 3…”
+
+**If vitals are stable, explain the effects of panic attacks:**
+- "What you’re feeling is real, but it’s something we can treat. You’re not in danger.”
+
+**Provide transport for further evaluation:**
+
+- “We’ll take you in just to be sure. They’ll help you get through this.”
+
+
+
 
 
 

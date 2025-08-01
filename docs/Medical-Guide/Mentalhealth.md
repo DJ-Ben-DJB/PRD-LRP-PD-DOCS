@@ -4,7 +4,7 @@ title: Mental Health Response
 parent: Medical-Guide
 ---
 
-# Psychiatric Response
+# Psychiatric/Mental Health Response
 
 In the field, not every call is about physical injury or trauma. Some patients won’t be bleeding, won’t be unconscious, and won’t even want help — but they’ll still need it.
 
