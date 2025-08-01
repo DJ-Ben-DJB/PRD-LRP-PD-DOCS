@@ -338,8 +338,11 @@ A concerned citizen has called in a report of a man behaving erratically in a ba
 
 ### Patient RP Behavior Prompts:
 `/me paces back and forth with quick, anxious steps, eyes flicking from side to side.`
+
 `/me mutters under his breath` “They know I’m here… I can feel it…” 
+
 `/me stops suddenly, staring at a rooftop, whispering` “There… there it is again.”
+
 `/me shakes his head rapidly and clenches his fists` “No, no, no — not again.”
 
 ### EMS Expectations:
@@ -382,8 +385,11 @@ Park rangers report a man who has remained seated in Legion Square Park for seve
 ### Patient RP Behavior Prompts:
 
 `/me sits stiffly on the bench, arms folded, staring straight ahead without moving`
+
 `/me slowly blinks, not reacting to sounds or voices at first`
+
 `/me whispers` “I haven’t been able to sleep. It just keeps spinning in my head.”
+
 `/me rubs his temples with shaking fingers and exhales heavily`
 
 ### EMS Expectations:
@@ -422,8 +428,11 @@ Security staff at a nightclub reports a collapsed civilian at the club entrance.
 ### Patient RP Behavior Prompts:
 
 `/me sits on the pavement, panting and gripping their chest tightly`
+
 `/me gasps` “I can’t breathe… I think I’m dying…"
+
 `/me trembles, tears running down their face` “Everything’s closing in — I can’t stop it.”
+
 `/me claws at their shirt, trying to cool down, eyes darting wildly`
 
 ### EMS Expectations:
