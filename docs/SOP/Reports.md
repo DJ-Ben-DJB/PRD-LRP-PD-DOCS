@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Medical Reports
+title: Medical Reports & Forms
 parent: SOP
 ---
 
-# Medical Reports  
+# Medical Reports & Forms
 All medical reports and their disclosure are governed by applicable Privacy Laws. Ensure compliance when accessing, handling, or sharing protected health information (PHI).
 
 {: .highlight }
@@ -108,6 +108,9 @@ Used to track external or law enforcement access to medical records. Helps suppo
 - Medical Staff Member Who Accessed
 
 ---
+
+## Medical Forms
+
 ### EMS Medication Prescription Form  
 This EMS Medication Prescription form must be completed by an authorised prescriber before issuing any medication. 
 A detailed report is required prior to prescription issuance. The form includes essential patient and medication details, dosage instructions, and prescribing authority information. 
@@ -116,19 +119,15 @@ It also outlines repeat limits and safety intervals to ensure responsible use an
 {: .highlight }
 >PLEASE NOTE: A REPORT IS REQUIRED TO ISSUE A PRESCRIPTION
 
-- PHMC - EMS Medication prescription
-- Prescribing body: [rank+name]
-- Patient name: [name]
+- **Title:** PHMC - EMS Medication prescription
+- **Prescribing Body:** [rank+name]
+- **Patient name:** [name]
+- **Medication being Issued:** [medication_type]
+- **Dosage:** [the amount and how often med is to be used]
+- **Reason for issuing:** [very short description incl. report ID]
+- **Date of Prescription:** [XX/XX/XX]
+- **Repeat:** [the amount of times the patient can request this medication before needing another review, make sure to include a minimum time frame i.e 7 days to prevent addiction/overdosing ]
+- **Expiry Date:** [When the prescription is no longer valid] 
+- **Prescribing Body Signature:** [Your signature]
 
-- Medication being Issued: [medication type]
-
-- Dosage: [the amount and how often med is to be used]
-
-- Reason for issuing: [very short description incl. report ID]
-
-- Date of Prescription: [XX/XX/XX]
-- Repeat: [the amount of times the patient can request this medication before needing another review, make sure to include a minimum time frame i.e 7 days to prevent addiction/overdosing ]
-- Expiry Date: [When the prescription is no longer valid] 
-
-- Prescribing Body Signature: [Your signature]
-
+--- 
