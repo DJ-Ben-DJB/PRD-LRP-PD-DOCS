@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GSW (Gunshot Wounds) 
-parent: Medical-Guide
+parent: Police-Guide
 ---
 
 # GSW (Gunshot Wounds) 
