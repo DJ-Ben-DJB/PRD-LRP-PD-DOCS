@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to the Let's RP Beginner's Guide to PPolice (PD) Roleplay
+# Welcome to the Let's RP Beginner's Guide to Police (PD) Roleplay
 
 {: .highlight }
 > **OOC Note:** This guide is created for new PD role players with little to no experience. Its purpose is to help you learn the basics of police roleplay and develop your skills to provide an enjoyable and immersive experience for both yourself, and the players you interact with in the city. 
