@@ -4,17 +4,17 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to the Let's RP Beginner's Guide to Medical Roleplay
+# Welcome to the Let's RP Beginner's Guide to PPolice (PD) Roleplay
 
 {: .highlight }
-> **OOC Note:** This guide is created for new medical role players with little to no experience. Its purpose is to help you learn the basics of medical roleplay and develop your skills to provide an enjoyable and immersive experience for both yourself, and the players you interact with in the city. 
+> **OOC Note:** This guide is created for new PD role players with little to no experience. Its purpose is to help you learn the basics of police roleplay and develop your skills to provide an enjoyable and immersive experience for both yourself, and the players you interact with in the city. 
 
-Our aim is to give you a simple, easy to follow framework for handling different types of injuries while building your confidence in EMS
+Our aim is to give you a simple, easy to follow framework for handling different types of scenarios while building your confidence in PD
 
 {: .highlight }
-> **Remember:** this is roleplay! That means suspending disbelief and embracing the creative chaos. One moment you might be patching up a scraped knee, and the next, you’re reassembling the commissioners eye ball. In roleplay, scenarios can be absurd, impossible, or downright bizarre and that’s half the fun. Embrace the unexpected, stay in character, and enjoy the ride. 
+> **Remember:** this is roleplay! That means suspending disbelief and embracing the creative chaos. In roleplay, scenarios can be absurd, impossible, or downright bizarre and that’s half the fun. Embrace the unexpected, stay in character, and enjoy the ride. 
 
-## Medical RP Guides
+## Police RP Guides
 
 <table>
 <tbody>
@@ -89,5 +89,5 @@ Our aim is to give you a simple, easy to follow framework for handling different
 ## Disclaimer Statement
 
 {: .highlight }
-> Medical role play training in this community is designed solely for educational and simulation purposes to help participants develop communication, problem-solving, and procedural skills in a fictional (Roleplay) medical setting. These sessions do not represent real-life medical training or practice and must not be interpreted as medical advice or guidance. Scenarios involve simulated situations and fictional cases under facilitator supervision, with strict boundaries separating role play from actual medical conduct. Participants are responsible for their actions, must not attempt to apply role play techniques in real life, and acknowledge the limitations and simplified nature of these exercises. Participation is voluntary, and by joining, individuals agree to these terms and the educational intent of the activities.
+> Police role play training in this community is designed solely for educational and simulation purposes to help participants develop communication, problem-solving, and procedural skills in a fictional (Roleplay) police setting. These sessions do not represent real-life police training or practice and must not be interpreted as police advice or guidance. Scenarios involve simulated situations and fictional cases under facilitator supervision, with strict boundaries separating role play from actual police conduct. Participants are responsible for their actions, must not attempt to apply role play techniques in real life, and acknowledge the limitations and simplified nature of these exercises. Participation is voluntary, and by joining, individuals agree to these terms and the educational intent of the activities.
 
